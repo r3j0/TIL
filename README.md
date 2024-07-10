@@ -1,7 +1,11 @@
 # TIL
 Today I Learned
 
-# 2024. 07. 09
+# 2024. 07. 10
+1. [플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/20240710_lca.md)
+2. [SCC 알고리즘 공부](https://github.com/r3j0/TIL/blob/main/PS/20240710_scc.md)
+
+### 2024. 07. 09
 1. [플래티넘 KMP 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/20240709_kmp.md)
 2. [골드 ~ 플래티넘 LCA / Sparse Table 연습 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/20240709_lca.md)
 
