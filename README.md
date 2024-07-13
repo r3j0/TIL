@@ -1,5 +1,5 @@
 # TIL
-Today I Learned
+***Today I Learned***
 
 > ## To-Do List
 > 1. Codeforces Round 954 (Div. 3) UpSolving E ~
@@ -10,6 +10,8 @@ Today I Learned
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
+
+<br>
 
 # 2024. 07. 13
 1. [백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/20240713_boj.md)
