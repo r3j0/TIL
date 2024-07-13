@@ -1,8 +1,13 @@
 # TIL
 Today I Learned
 
+> To-Do List
+> 1. Codeforces Round 954 (Div. 3) UpSolving E ~
+> 2. 2-SAT 공부
+> 3. 이분 매칭 알고리즘 공부
+
 # 2024. 07. 13
-1. [백준 기초 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/20240713_boj.md)
+1. [백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/20240713_boj.md)
 2. [플래티넘 SCC 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/20240713_scc.md)
 
 ### 2024. 07. 12
