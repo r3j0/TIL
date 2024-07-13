@@ -7,10 +7,13 @@ Today I Learned
 > 3. 2-SAT 공부
 > 4. 이분 매칭 알고리즘 공부
 
+> ### 표기법
+> - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
+
 # 2024. 07. 13
 1. [백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/20240713_boj.md)
-2. [플래티넘 SCC 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/20240713_scc.md)
-3. [Codeforces Round 957 (Div. 3) UpSolving (A ~ D)](https://github.com/r3j0/TIL/blob/main/PS/20240713_cf957.md)
+2. [**플래티넘 SCC 연습 (백준 3문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/20240713_scc.md)
+3. [**Codeforces Round 957 (Div. 3) UpSolving (A ~ D)**](https://github.com/r3j0/TIL/blob/main/PS/20240713_cf957.md)
 
 ### 2024. 07. 12
 1. [플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/20240712_lca.md)
