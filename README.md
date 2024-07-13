@@ -3,6 +3,7 @@ Today I Learned
 
 # 2024. 07. 13
 1. [백준 기초 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/20240713_boj.md)
+2. [플래티넘 SCC 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/20240713_scc.md)
 
 ### 2024. 07. 12
 1. [플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/20240712_lca.md)
