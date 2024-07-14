@@ -1,19 +1,6 @@
 # TIL
 ***Today I Learned***
 
-> ## To-Do List
-> 1. Codeforces Round 954 (Div. 3) UpSolving E ~
-> 2. Codeforces Round 957 (Div. 3) UpSolving E ~
-> 3. 2-SAT 공부
-> 4. 이분 매칭 알고리즘 공부
-> 5. 파이썬 추가
-> 6. C 추가
-
-> ### 표기법
-> - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
-
-<br>
-
 # 2024. 07. 14
 1. [[ PS / BOJ ] 백준 다양한 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240714_boj.md)
 2. [[ PS / SCC ] 플래티넘 SCC 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240714_scc.md)
@@ -25,6 +12,22 @@
 
 ### 2024. 07. 12
 1. [[ PS / LCA ] 플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240712_lca.md)
+
+> ## To-Do List
+> 1. Codeforces Round 954 (Div. 3) UpSolving E ~
+> 2. Codeforces Round 957 (Div. 3) UpSolving E ~
+> 3. 2-SAT 공부
+> 4. 이분 매칭 알고리즘 공부
+> 5. 파이썬 추가
+> 6. C 추가
+
+> ## 진행 중
+> 1. **매일 실버 ~ 골드 랜덤 1문제 풀이**
+> 2. 랜덤 마라톤
+> 3. **매일 Codeforces 특정 Difficulty 범위 1문제 풀이**
+
+> ### 표기법
+> - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 ### 2024. 07. 11
 1. [[ PS / Codeforces ] Codeforces Round 954 (Div. 3) UpSolving (A ~ D)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240711_cf954.md)
