@@ -29,6 +29,8 @@
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
+<br><br><br>
+
 ### 2024. 07. 11
 1. [[ PS / Codeforces ] Codeforces Round 954 (Div. 3) UpSolving (A ~ D)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240711_cf954.md)
 2. [[ PS / SCC ] **플래티넘 SCC 이해 + 연습 (백준 1문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240711_scc.md)
