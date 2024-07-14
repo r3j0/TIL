@@ -15,17 +15,18 @@
 1. [[ PS / LCA ] 플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240712_lca.md)
 
 > ## To-Do List
-> 1. Codeforces Round 954 (Div. 3) UpSolving E ~
-> 2. Codeforces Round 957 (Div. 3) UpSolving E ~
-> 3. 2-SAT 공부
-> 4. 이분 매칭 알고리즘 공부
-> 5. 파이썬 추가
-> 6. C 추가
+> 1. Codeforces Round 950 (Div. 3) UpSolving D ~
+> 2. Codeforces Round 954 (Div. 3) UpSolving E ~
+> 3. Codeforces Round 957 (Div. 3) UpSolving E ~
+> 4. 2-SAT 공부
+> 5. 이분 매칭 알고리즘 공부
+> 6. 파이썬
+> 7. C
 
 > ## 진행 중
 > 1. **매일 실버 ~ 골드 랜덤 1문제 풀이**
 > 2. 랜덤 마라톤
-> 3. **매일 Codeforces Problemset 특정 Difficulty 범위 1문제 풀이**
+> 3. **매일 Codeforces Problemset 특정 Difficulty 범위 ( Now  1100 ~ 1300 ) 문제 풀이**
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
