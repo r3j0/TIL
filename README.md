@@ -4,6 +4,7 @@
 # 2024. 07. 14
 1. [[ PS / BOJ ] 백준 다양한 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240714_boj.md)
 2. [[ PS / SCC ] 플래티넘 SCC 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240714_scc.md)
+3. [[ PS / Codeforces ] Codeforces Round 950 (Div 3) Virtual Participation (A ~ C)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240714_cf950.md)
 
 ### 2024. 07. 13
 1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240713_boj.md)
