@@ -6,14 +6,18 @@
 > 2. Codeforces Round 957 (Div. 3) UpSolving E ~
 > 3. 2-SAT 공부
 > 4. 이분 매칭 알고리즘 공부
-> 5. 알고리즘 폴더별 정리 / 파이썬, C 추가
+> 5. 파이썬 추가
+> 6. C 추가
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br>
 
-# 2024. 07. 13
+# 2024. 07. 14
+1. [백준 다양한 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240714_boj.md)
+
+### 2024. 07. 13
 1. [백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240713_boj.md)
 2. [플래티넘 SCC 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240713_scc.md)
 3. [**Codeforces Round 957 (Div. 3) UpSolving (A ~ D)**](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240713_cf957.md)
