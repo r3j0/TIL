@@ -17,6 +17,7 @@
 # 2024. 07. 14
 1. [백준 다양한 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240714_boj.md)
 2. [플래티넘 SCC 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240714_scc.md)
+3. Codeforces Problemset Difficulty 1400 ~ 1600 3 Solve
 
 ### 2024. 07. 13
 1. [백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240713_boj.md)
