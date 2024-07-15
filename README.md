@@ -4,6 +4,10 @@
 # 2024. 07. 15
 1. [[ PS / Codeforces ] **Codeforces Round 950 (Div. 3) UpSolving (A ~ D)**](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240715_cf950.md)
 2. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240715_boj.md)
+3. Codeforces Problemset ( Difficulty 1100 ~ 1300 ) 1 Solve
+4. Codeforces Round 950 (Div. 3) UpSolving (E ~ G)
+5. 2-SAT 공부
+6. 파이썬
 
 ### 2024. 07. 14
 1. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240714_boj.md)
@@ -16,13 +20,11 @@
 3. [[ PS / Codeforces ] **Codeforces Round 957 (Div. 3) UpSolving (A ~ D)**](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240713_cf957.md)
 
 > ## To-Do List
-> 1. Codeforces Round 950 (Div. 3) UpSolving D ~
+> 1. Codeforces Round 950 (Div. 3) UpSolving E ~
 > 2. Codeforces Round 954 (Div. 3) UpSolving E ~
 > 3. Codeforces Round 957 (Div. 3) UpSolving E ~
-> 4. 2-SAT 공부
-> 5. 이분 매칭 알고리즘 공부
-> 6. 파이썬
-> 7. C
+> 4. 이분 매칭 알고리즘 공부
+> 5. C
 
 > ## 진행 중
 > 1. **매일 실버 ~ 골드 랜덤 1문제 풀이**
