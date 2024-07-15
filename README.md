@@ -5,7 +5,6 @@
 1. [[ PS / Codeforces ] Codeforces Round 950 (Div. 3) UpSolving (A ~ D)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240715_cf950.md)
 2. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240715_boj.md)
 3. [[ PS / CSS ] **2-SAT 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240715_scc.md)
-4. 파이썬
 
 ### 2024. 07. 14
 1. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240714_boj.md)
@@ -22,7 +21,7 @@
 > 2. Codeforces Round 954 (Div. 3) UpSolving E ~
 > 3. Codeforces Round 957 (Div. 3) UpSolving E ~
 > 4. 이분 매칭 알고리즘 공부
-> 5. C
+> 5. C / 파이썬
 
 > ## 진행 중
 > 1. **매일 실버 ~ 골드 랜덤 1문제 풀이**
