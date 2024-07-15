@@ -2,7 +2,7 @@
 ***Today I Learned***
 
 # 2024. 07. 15
-1. [[ PS / Codeforces ] **Codeforces Round 950 (Div. 3) UpSolving (A ~ D)**](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240715_cf950.md)
+1. [[ PS / Codeforces ] Codeforces Round 950 (Div. 3) UpSolving (A ~ D)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240715_cf950.md)
 2. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240715_boj.md)
 3. Codeforces Problemset ( Difficulty 1100 ~ 1300 ) 1 Solve
 4. Codeforces Round 950 (Div. 3) UpSolving (E ~ G)
