@@ -3,6 +3,7 @@
 
 # 2024. 07. 16
 1. [[ PS / BOJ ] 백준 다양한 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240716_boj.md)
+2. [[ PS / SCC ] 플래티넘 2-SAT 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240716_scc.md)
 
 ### 2024. 07. 15
 1. [[ PS / Codeforces ] Codeforces Round 950 (Div. 3) UpSolving (A ~ D)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240715_cf950.md)
