@@ -1,7 +1,11 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 07. 16
+# 2024. 07. 19
+1. [[ PS / SCC ] 플래티넘 2-SAT 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240719_scc.md)
+2. [[ PS / bipartite_matching ] 이분 매칭 알고리즘 공부 + 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240719_bm.md)
+
+### 2024. 07. 16
 1. [[ PS / BOJ ] 백준 다양한 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240716_boj.md)
 2. [[ PS / SCC ] **플래티넘 2-SAT 연습 (백준 2문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240716_scc.md)
 
@@ -9,11 +13,6 @@
 1. [[ PS / Codeforces ] Codeforces Round 950 (Div. 3) UpSolving (A ~ D)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240715_cf950.md)
 2. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240715_boj.md)
 3. [[ PS / SCC ] **2-SAT 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240715_scc.md)
-
-### 2024. 07. 14
-1. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240714_boj.md)
-2. [[ PS / SCC ] 플래티넘 SCC 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240714_scc.md)
-3. [[ PS / Codeforces ] Codeforces Round 950 (Div. 3) Virtual Participation (A ~ C)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240714_cf950.md)
 
 
 
@@ -34,6 +33,11 @@
 
 <br><br><br>
 
+### 2024. 07. 14
+1. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240714_boj.md)
+2. [[ PS / SCC ] 플래티넘 SCC 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240714_scc.md)
+3. [[ PS / Codeforces ] Codeforces Round 950 (Div. 3) Virtual Participation (A ~ C)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240714_cf950.md)
+   
 ### 2024. 07. 13
 1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240713_boj.md)
 2. [[ PS / SCC ] 플래티넘 SCC 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240713_scc.md)
