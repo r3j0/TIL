@@ -23,7 +23,7 @@
 
 > ## 진행 중
 > 1. **매일 실버 ~ 골드 랜덤 문제 풀이**
-> 2. **매일 Codeforces Problemset 특정 Difficulty 범위 ( Now  1100 ~ 1300 ) 문제 풀이**
+> 2. **매일 Codeforces Problemset 특정 Difficulty 범위 문제 풀이**
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
