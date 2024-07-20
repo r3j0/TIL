@@ -2,7 +2,7 @@
 ***Today I Learned***
 
 # 2024. 07. 20
-1. [[ PS / bipartite matching ] **플래티넘 이분 매칭 연습 (백준 2문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240720_bm.md)
+1. [[ PS / bipartite matching ] **플래티넘 이분 매칭 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240720_bm.md)
 
 ### 2024. 07. 19
 1. [[ PS / SCC ] 플래티넘 2-SAT 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240719_scc.md)
