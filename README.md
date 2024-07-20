@@ -4,6 +4,7 @@
 # 2024. 07. 20
 1. [[ PS / bipartite matching ] **플래티넘 이분 매칭 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240720_bm.md)
 2. [[ PS / Codeforces ] Codeforces Problemset Difficulty 1100 2 Solve](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240720_cf.md)
+3. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240720_boj.md)
 
 ### 2024. 07. 19
 1. [[ PS / SCC ] 플래티넘 2-SAT 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240719_scc.md)
