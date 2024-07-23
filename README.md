@@ -1,7 +1,10 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 07. 21
+# 2024. 07. 23
+1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240723_boj.md)
+
+### 2024. 07. 21
 1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240721_boj.md)
 2. [[ PS / bipartite matching ] **플래티넘 이분 매칭 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240721_bm.md)
 
@@ -9,10 +12,6 @@
 1. [[ PS / bipartite matching ] **플래티넘 이분 매칭 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240720_bm.md)
 2. [[ PS / Codeforces ] Codeforces Problemset Difficulty 1100 2 Solve](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240720_cf.md)
 3. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240720_boj.md)
-
-### 2024. 07. 19
-1. [[ PS / SCC ] 플래티넘 2-SAT 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240719_scc.md)
-2. [[ PS / bipartite_matching ] 이분 매칭 알고리즘 공부 + 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240719_bm.md)
 
 
 
@@ -31,6 +30,10 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 07. 19
+1. [[ PS / SCC ] 플래티넘 2-SAT 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240719_scc.md)
+2. [[ PS / bipartite_matching ] 이분 매칭 알고리즘 공부 + 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240719_bm.md)
 
 ### 2024. 07. 16
 1. [[ PS / BOJ ] 백준 다양한 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240716_boj.md)
