@@ -3,6 +3,7 @@
 
 # 2024. 07. 24
 1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240724_boj.md)
+2. [[ PS / FLOW ] **네트워크 플로우 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240724_flow.md)
    
 ### 2024. 07. 23
 1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240723_boj.md)
