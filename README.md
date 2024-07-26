@@ -17,16 +17,10 @@
 
 
 
-> ## To-Do List
-> 1. Codeforces Round 950 (Div. 3) UpSolving F1 ~
-> 2. Codeforces Round 954 (Div. 3) UpSolving E ~
-> 3. Codeforces Round 957 (Div. 3) UpSolving E ~
-> 4. C / 파이썬
-
 > ## 진행 중
 > 1. [ PS ] **실버, 골드 랜덤 문제 풀이**
 > 2. [ PS ] **Codeforces Problemset 특정 Difficulty 범위 문제 풀이**
-> 3. [ PS ] Rating 2+
+> 3. [ JavaScript ] W3School JavaScript Tutorial
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
