@@ -15,7 +15,7 @@
 
 
 > ## To-Do List
-> 1. Codeforces Round 950 (Div. 3) UpSolving E ~
+> 1. Codeforces Round 950 (Div. 3) UpSolving F1 ~
 > 2. Codeforces Round 954 (Div. 3) UpSolving E ~
 > 3. Codeforces Round 957 (Div. 3) UpSolving E ~
 > 4. C / 파이썬
