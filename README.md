@@ -4,7 +4,8 @@
 # 2024. 07. 26
 1. [[ PS / FLOW ] **플래티넘 네트워크 플로우 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240726_flow.md)
 2. [[ PS / Codeforces ] Codeforces Round 950 (Div. 3) UpSolving (E)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240726_cf950.md)
-3. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240726_boj.md) 
+3. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240726_boj.md)
+4. [[ PS / segtree ] 플래티넘 머지 소트 트리 / 세그먼트 트리 문제 풀이 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/segtree/20240726_segtree.md)
 
 ### 2024. 07. 24
 1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240724_boj.md)
