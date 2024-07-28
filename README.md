@@ -1,7 +1,10 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 07. 27 
+# 2024. 07. 28
+1. [[ PS / segtree ] 플래티넘 머지 소트 트리 / 세그먼트 트리 문제 풀이 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/segtree/20240728_segtree.md)
+
+### 2024. 07. 27 
 1. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240727_boj.md)
 
 ###  2024. 07. 26
@@ -10,10 +13,6 @@
 3. [[ PS / BOJ ] 백준 다양한 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240726_boj.md)
 4. [[ PS / segtree ] 플래티넘 머지 소트 트리 / 세그먼트 트리 문제 풀이 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/segtree/20240726_segtree.md)
 5. [[ JavaScript ] 자바스크립트 메소드 / 출력](https://github.com/r3j0/TIL/blob/main/JavaScript/20240726_js.md)
-
-### 2024. 07. 24
-1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240724_boj.md)
-2. [[ PS / FLOW ] **네트워크 플로우 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240724_flow.md)
 
 
 
@@ -27,6 +26,10 @@
 
 <br><br><br>
 
+### 2024. 07. 24
+1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240724_boj.md)
+2. [[ PS / FLOW ] **네트워크 플로우 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240724_flow.md)
+   
 ### 2024. 07. 23
 1. [[ PS / BOJ ] 백준 다양한 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240723_boj.md)
    
