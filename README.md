@@ -3,6 +3,7 @@
 
 # 2024. 07. 29
 1. [[ PS / BOJ ] 백준 다양한 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240728_boj.md)
+2. [[ PS / FLOW ] **플래티넘 네트워크 플로우 / MCMF 알고리즘 공부 및 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240728_flow.md)
 
 ### 2024. 07. 28
 1. [[ PS / segtree ] 플래티넘 머지 소트 트리 / 세그먼트 트리 문제 풀이 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/segtree/20240728_segtree.md)
