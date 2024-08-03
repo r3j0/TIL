@@ -15,9 +15,10 @@
 
 
 > ## 진행 중
-> 1. [ PS ] **실버, 골드 랜덤 문제 풀이**
-> 2. [ PS ] **Codeforces Problemset 특정 Difficulty 범위 문제 풀이**
-> 3. [ JavaScript ] W3School JavaScript Tutorial
+> 1. [ PS ] **AtCoder Problems / A ~ D 1 Set**
+> 2. [ PS ] **Codeforces Problemset Difficulty 1300 ~ 1500 2 Solve**
+> 3. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
+> 4. [ JavaScript ] W3School JavaScript Tutorial
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
