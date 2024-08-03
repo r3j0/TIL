@@ -2,7 +2,7 @@
 ***Today I Learned***
 
 # 2024. 08. 03
-1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240803_flow.md)
+1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240803_flow.md)
    
 ### 2024. 08. 01
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240801_flow.md)
