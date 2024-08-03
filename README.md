@@ -16,8 +16,7 @@
 
 
 > ## 진행 중
-> 1. [ PS ] **AtCoder Problems / A ~ D 1 Set**
-> 2. [ PS ] **Codeforces Problemset Difficulty 1300 ~ 1500 2 Solve**
+> 1. [ PS ] **AtCoder Problems / A ~ E 1 Set or Codeforces Problemset Difficulty 1300 ~ 1500 2 Solve**
 > 3. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
 > 4. [ JavaScript ] W3School JavaScript Tutorial
 
