@@ -1,14 +1,14 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 08. 01
+# 2024. 08. 03
+1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240803_flow.md)
+   
+### 2024. 08. 01
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240801_flow.md)
 
 ### 2024. 07. 31
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240731_flow.md)
-
-### 2024. 07. 30
-1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240730_flow.md)
 
 
 
@@ -23,6 +23,9 @@
 
 <br><br><br>
 
+### 2024. 07. 30
+1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240730_flow.md)
+   
 ### 2024. 07. 29
 1. [[ PS / BOJ ] 백준 다양한 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240728_boj.md)
 2. [[ PS / FLOW ] **플래티넘 네트워크 플로우 / MCMF 알고리즘 공부 및 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240729_flow.md)
