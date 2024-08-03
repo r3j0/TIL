@@ -5,6 +5,7 @@
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240803_flow.md)
 2. [[ PS / bipartite matching ] 플래티넘 이분 매칭 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240803_bm.md)
 3. [[ PS / AtCoder ] **AtCoder Problems / A ~ D 1 Set ( AtCoder Beginner Contest 364 )**](https://github.com/r3j0/TIL/blob/main/PS/AtCoder/20240803_atcoder.md)
+4. [[ PS / BOJ ] 백준 스위핑 기법 공부 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240803_boj.md)
    
 ### 2024. 08. 01
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240801_flow.md)
