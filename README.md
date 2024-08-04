@@ -2,7 +2,7 @@
 ***Today I Learned***
 
 # 2024. 08. 04
-1. [[ PS / BOJ ] 백준 실버, 골드 솔브 순 문제 풀이 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240804_boj.md)
+1. [[ PS / BOJ ] 백준 실버, 골드 솔브 순 문제 풀이 (백준 6문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240804_boj.md)
 2. [[ PS / AtCoder ] **AtCoder Problems / A ~ E 1 Set ( AtCoder Beginner Contest 365 )**](https://github.com/r3j0/TIL/blob/main/PS/AtCoder/20240804_atcoder.md)
 
 ### 2024. 08. 03
