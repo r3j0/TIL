@@ -19,8 +19,14 @@
 
 > ## 진행 중
 > 1. [ PS ] **AtCoder Problems / A ~ E 1 Set or Codeforces Problemset Difficulty 1300 ~ 1500 2 Solve**
-> 3. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
-> 4. [ JavaScript ] W3School JavaScript Tutorial
+> 2. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
+> 3. [ JavaScript ] W3School JavaScript Tutorial
+
+> ## 8월 목표
+> 1. Rating 2320+
+
+> ### 8월 둘째 주 목표 (8/5 ~ 8/11)
+> 1. Rating 2305+
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
