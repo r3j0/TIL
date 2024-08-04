@@ -1,7 +1,10 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 08. 03
+# 2024. 08. 04
+1. [[ PS / BOJ ] 백준 실버, 골드 솔브 순 문제 풀이 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240804_boj.md)
+
+### 2024. 08. 03
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240803_flow.md)
 2. [[ PS / bipartite matching ] 플래티넘 이분 매칭 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/bipartite_matching/20240803_bm.md)
 3. [[ PS / AtCoder ] **AtCoder Problems / A ~ D 1 Set ( AtCoder Beginner Contest 364 )**](https://github.com/r3j0/TIL/blob/main/PS/AtCoder/20240803_atcoder.md)
@@ -9,9 +12,6 @@
    
 ### 2024. 08. 01
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240801_flow.md)
-
-### 2024. 07. 31
-1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240731_flow.md)
 
 
 
@@ -26,6 +26,9 @@
 
 <br><br><br>
 
+### 2024. 07. 31
+1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240731_flow.md)
+   
 ### 2024. 07. 30
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240730_flow.md)
    
