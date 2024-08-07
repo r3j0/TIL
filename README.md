@@ -1,16 +1,15 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 08. 06
+# 2024. 08. 07
+1. [[ PS / BOJ ] 백준 골드 랜덤 디펜스 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240807_boj.md)
+
+### 2024. 08. 06
 1. [[ PS / BOJ ] 백준 실버, 골드 랜덤 디펜스 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240806_boj.md)
    
 ### 2024. 08. 05
 1. [[ PS / BOJ ] 백준 실버, 골드 랜덤 디펜스 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240805_boj.md)
 2. [[ PS / FLOW ] **플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240803_flow.md)
-
-### 2024. 08. 04
-1. [[ PS / BOJ ] 백준 실버, 골드 솔브 순 문제 풀이 (백준 6문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240804_boj.md)
-2. [[ PS / AtCoder ] **AtCoder Problems / A ~ E 1 Set ( AtCoder Beginner Contest 365 )**](https://github.com/r3j0/TIL/blob/main/PS/AtCoder/20240804_atcoder.md)
 
 
 
@@ -30,6 +29,10 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 08. 04
+1. [[ PS / BOJ ] 백준 실버, 골드 솔브 순 문제 풀이 (백준 6문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240804_boj.md)
+2. [[ PS / AtCoder ] **AtCoder Problems / A ~ E 1 Set ( AtCoder Beginner Contest 365 )**](https://github.com/r3j0/TIL/blob/main/PS/AtCoder/20240804_atcoder.md)
 
 ### 2024. 08. 03
 1. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240803_flow.md)
