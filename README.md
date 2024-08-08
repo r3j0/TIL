@@ -3,6 +3,7 @@
 
 # 2024. 08. 08
 1. [[ PS / BOJ ] 백준 실버 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240808_boj.md)
+2. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240808_flow.md)
 
 ### 2024. 08. 07
 1. [[ PS / BOJ ] 백준 골드 랜덤 디펜스 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240807_boj.md)
