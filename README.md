@@ -1,17 +1,17 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 08. 08
+# 2024. 08. 13
+1. [[ PS / BOJ ] 백준 실버, 골드 랜덤 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240813_boj.md)
+
+### 2024. 08. 08
 1. [[ PS / BOJ ] 백준 실버 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240808_boj.md)
 2. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240808_flow.md)
 
 ### 2024. 08. 07
 1. [[ PS / BOJ ] 백준 골드 랜덤 디펜스 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240807_boj.md)
 2. [[ PS / FLOW ] **플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240807_flow.md)
-
-### 2024. 08. 06
-1. [[ PS / BOJ ] 백준 실버, 골드 랜덤 디펜스 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240806_boj.md)
-
+   
 
 
 > ## 진행 중
@@ -22,13 +22,16 @@
 > ## 8월 목표
 > 1. Rating 2320+
 
-> ### 8월 둘째 주 목표 (8/5 ~ 8/11)
-> 1. Rating 2305+
+> ### 8월 셋째 주 목표 (8/12 ~ 8/18)
+> 1. Rating 2317+
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 08. 06
+1. [[ PS / BOJ ] 백준 실버, 골드 랜덤 디펜스 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240806_boj.md)
 
 ### 2024. 08. 05
 1. [[ PS / BOJ ] 백준 실버, 골드 랜덤 디펜스 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240805_boj.md)
