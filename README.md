@@ -4,6 +4,7 @@
 # 2024. 08. 14
 1. [[ PS / BOJ ] 백준 실버 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240814_boj.md)
 2. [[ PS / AtCoder ] AtCoder Beginner Contest 366 Virtual Participation](https://github.com/r3j0/TIL/blob/main/PS/AtCoder/20240814_abc366.md)
+3. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240814_flow.md)
 
 ### 2024. 08. 13
 1. [[ PS / BOJ ] 백준 실버, 골드 랜덤 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240813_boj.md)
