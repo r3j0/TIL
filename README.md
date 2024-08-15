@@ -141,12 +141,14 @@
 1. [[ PS / KMP ] 플래티넘 KMP 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240708_kmp.md)
 2. [[ PS / LCA ] **LCA / Sparse Table 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240708_lca.md)
 
-### 2024. 07. 07
-1. [골드 DP 연습 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/DP/20240707_dp.md)
-2. [**KMP 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240707_kmp.md)
-
 <hr>
 
 **이 아래부터는 [티스토리 블로그](https://readytojoin.tistory.com) 에 정리됨.**
 
 <hr>
+
+###### 2024. 07. 07
+1. [골드 DP 연습 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/DP/20240707_dp.md)
+2. [**KMP 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240707_kmp.md)
+
+
