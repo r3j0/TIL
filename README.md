@@ -133,15 +133,15 @@
 1. [[ PS / Codeforces ] Codeforces Round 954 (Div. 3) UpSolving (A ~ D)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20240711_cf954.md)
 2. [[ PS / SCC ] **플래티넘 SCC 이해 + 연습 (백준 1문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240711_scc.md)
 
-### 2024. 07. 10
-1. [[ PS / LCA ] 플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240710_lca.md)
-2. [[ PS / SCC ] SCC 알고리즘 공부](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240710_scc.md)
-
 <hr>
 
 **이 아래부터는 [티스토리 블로그](https://readytojoin.tistory.com) 에 정리됨.**
 
 <hr>
+
+#### 2024. 07. 10
+1. [[ PS / LCA ] 플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240710_lca.md)
+2. [[ PS / SCC ] SCC 알고리즘 공부](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240710_scc.md)
 
 #### 2024. 07. 09
 1. [[ PS / KMP ] 플래티넘 KMP 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240709_kmp.md)
