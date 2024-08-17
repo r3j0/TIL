@@ -4,7 +4,7 @@
 # 2024. 08. 17
 1. [[ PS / FLOW ] 다이아몬드 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240817_flow.md)
 2. [[ PS / sqrt_decomposition ] **제곱근 분할법 알고리즘 이해 및 연습 (백준 2문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/sqrt_decomposition/20240817_sd.md)
-3. [[ PS / MO ] **Mo's 알고리즘 이해 및 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/mo/20240817_mo.md)
+3. [[ PS / MO ] **Mo's 알고리즘 이해 및 연습 (백준 4문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/MO/20240817_mo.md)
 
 ### 2024. 08. 16
 1. [[ PS / BOJ ] 백준 실버, 골드 랜덤 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240816_boj.md)
