@@ -21,7 +21,7 @@
 > ## 9월 목표
 > 1. Rating 2350+
 > 2. 컴퓨터네트워크 Chapter 1
-> 3. [생활코딩 자바스크립트] - 자바스크립트 기본 완료
+> 3. [생활코딩 자바스크립트](https://opentutorials.org/course/743) - 자바스크립트 기본 완료
 > 4. [Python Documentation](https://docs.python.org/ko/3/) 읽기
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
