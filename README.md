@@ -2,7 +2,7 @@
 ***Today I Learned***
 
 # 2024. 08. 18
-1. [[ PS / MO ] 플래티넘 Mo's 알고리즘 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20240818_mo.md)
+1. [[ PS / MO ] 플래티넘 Mo's 알고리즘 연습 (백준 5문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20240818_mo.md)
 
 ### 2024. 08. 17
 1. [[ PS / FLOW ] 다이아몬드 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240817_flow.md)
