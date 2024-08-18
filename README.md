@@ -23,6 +23,14 @@
 > 2. 컴퓨터네트워크 Chapter 1
 > 3. [생활코딩 자바스크립트](https://opentutorials.org/course/743) - 자바스크립트 기본 완료
 > 4. [Python Documentation](https://docs.python.org/ko/3/) 읽기
+> 5. 고급수학 알고리즘 공부하고 블로그화 (중국인의 나머지 정리, 고속 푸리에 변환)
+>
+> ### 9월 목표 진행도
+> 1. 12 Left ( 2338 / 2350 )
+> 2. /
+> 3. /
+> 4. /
+> 5. /
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
