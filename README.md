@@ -1,15 +1,14 @@
 # TIL
 ***Today I Learned***
 
+# 2024. 08. 21
+1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240821_boj.md)
+
 ### 2024. 08. 20
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240820_boj.md)
 
 ### 2024. 08. 19
 1. [[ PS / BOJ ] 백준 골드 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240819_boj.md)
-
-### 2024. 08. 18
-1. [[ PS / MO ] 플래티넘 Mo's 알고리즘 연습 (백준 5문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20240818_mo.md)
-2. [[ PS / BOJ ] **백준 골드 4문제 풀이**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240818_boj.md)
    
 > ## 진행 중
 > 1. [ PS ] **AtCoder Problems / A ~ E 1 Set or Codeforces Problemset Difficulty 1300 ~ 1500 2 Solve**
@@ -36,6 +35,10 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 08. 18
+1. [[ PS / MO ] 플래티넘 Mo's 알고리즘 연습 (백준 5문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20240818_mo.md)
+2. [[ PS / BOJ ] **백준 골드 4문제 풀이**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240818_boj.md)
 
 ### 2024. 08. 17
 1. [[ PS / FLOW ] 다이아몬드 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240817_flow.md)
