@@ -2,7 +2,7 @@
 ***Today I Learned***
 
 # 2024. 08. 22
-1. [[ Rust ] Compregensive Rust - 타입 및 값](https://github.com/r3j0/TIL/blob/main/Rust/20240822_rust.md)
+1. [[ Rust ] Comprehensive Rust - 타입 및 값](https://github.com/r3j0/TIL/blob/main/Rust/20240822_rust.md)
 
 ### 2024. 08. 21
 1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240821_boj.md)
