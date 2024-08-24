@@ -18,10 +18,10 @@
 
 > ## 9월 목표
 > 1. Rating 2340+
-> 2. **TOPCIT Essence 완독**
+> 2. TOPCIT Essence 완독
 > 3. Comprehensive Rust 2일차 오후 완료
 > ### 9월 목표 진행도
-> 1. 2 Left ( 2338 / 2340 )
+> 1. **달성!**
 > 2. /
 > 3. 1일차 오전 - 흐름 제어 완료
   
