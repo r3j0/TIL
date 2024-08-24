@@ -18,9 +18,11 @@
 > ## 9월 목표
 > 1. Rating 2340+
 > 2. **TOPCIT Essence 완독**
+> 3. Comprehensive Rust 2일차 오후 완료
 > ### 9월 목표 진행도
 > 1. 2 Left ( 2338 / 2340 )
 > 2. /
+> 3. 1일차 오전 - 타입 및 값 완료
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
