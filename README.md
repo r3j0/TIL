@@ -3,6 +3,7 @@
 
 # 2024. 08. 24
 1. [[ Rust ] Comprehensive Rust - 흐름 제어](https://github.com/r3j0/TIL/blob/main/Rust/20240824_rust.md)
+2. [[ PS / FLOW ] 다이아몬드 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240824_flow.md)
 
 ### 2024. 08. 22
 1. [[ Rust ] Comprehensive Rust - 타입 및 값](https://github.com/r3j0/TIL/blob/main/Rust/20240822_rust.md)
