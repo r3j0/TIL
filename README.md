@@ -18,16 +18,35 @@
 > 2. [ Rust ] Comprehensive Rust
 > 3. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
 
+> ## 8월 다섯째주 목표 (8/26 ~ 9/1)
+> 1. TOPCIT 1과목 완료 및 블로그 포스팅
+> 2. TOPCIT 3과목 ~Unit 5 완료 및 블로그 포스팅
+> 3. BiGStudy 서바이벌 스터디 세팅
+> ### 8월 목표 진행도
+> 1. /
+> 2. /
 > ## 9월 목표
-> 1. Rating 2340+
+> 1. [ PS ] ~~Rating 2340+~~
 > 2. TOPCIT Essence 완독
-> 3. Comprehensive Rust 2일차 오후 완료
-> 4. 윤성우 열혈 C++ 프로그래밍 PDF 완료
+> 3. [ Rust ] Comprehensive Rust 2일차 오후 완료
+> 4. [ C++ ] 윤성우 열혈 C++ 프로그래밍 PDF 완료
+> 5. [ C ]
+> 6. [ Python ]
+> 7. [ SQL ]
 > ### 9월 목표 진행도
 > 1. **달성!**
 > 2. /
 > 3. 1일차 오후 - 튜플 및 배열 완료 (2 / 4)
 > 4. Chapter 2 완료 (2 / 16)
+> 5. /
+> 6. /
+> 7. /
+> ## 10월 목표
+> 1. TOPCIT 기출문제 완료 및 시험 응시
+> 2. [ PS ] Rating 2370+
+> 3. [ Rust ] Comprehensive Rust 완료
+> 4. 8월자 TIL 블로그화
+> 5. 블로그 방문 수 누적 10,000 달성
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
