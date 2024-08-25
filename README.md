@@ -16,6 +16,7 @@
 > ## 진행 중
 > 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
 > 2. [ Rust ] Comprehensive Rust
+> 3. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
 
 > ## 9월 목표
 > 1. Rating 2340+
