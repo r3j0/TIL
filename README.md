@@ -45,7 +45,7 @@
 > 1. TOPCIT 기출문제 완료 및 시험 응시
 > 2. [ PS ] Rating 2370+
 > 3. [ Rust ] Comprehensive Rust 완료
-> 4. 8월자 TIL 블로그화
+> 4. 7월자 TIL 블로그화
 > 5. 블로그 방문 수 누적 10,000 달성
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
