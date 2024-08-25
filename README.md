@@ -2,7 +2,7 @@
 ***Today I Learned***
 
 # 2024. 08. 25
-1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240825_boj.md)
+1. [[ PS / BOJ ] 백준 실버, 골드 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240825_boj.md)
 2. [[ Rust ] Comprehensive Rust - 튜플 및 배열](https://github.com/r3j0/TIL/blob/main/Rust/20240825_rust.md)
 3. [[ C++ ] **윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 1, 2**](https://github.com/r3j0/TIL/blob/main/C++/20240825_cpp.md)
 
