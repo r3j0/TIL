@@ -3,6 +3,7 @@
 
 # 2024. 08. 25
 1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240825_boj.md)
+2. [[ Rust ] Comprehensive Rust - 튜플 및 배열](https://github.com/r3j0/TIL/blob/main/Rust/20240825_rust.md)
 
 ### 2024. 08. 24
 1. [[ Rust ] Comprehensive Rust - 흐름 제어](https://github.com/r3j0/TIL/blob/main/Rust/20240824_rust.md)
@@ -22,7 +23,7 @@
 > ### 9월 목표 진행도
 > 1. **달성!**
 > 2. /
-> 3. 1일차 오전 - 흐름 제어 완료
+> 3. 1일차 오후 - 튜플 및 배열 완료
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
