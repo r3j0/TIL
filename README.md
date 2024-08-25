@@ -1,20 +1,19 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 08. 24
+# 2024. 08. 25
+1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240825_boj.md)
+
+### 2024. 08. 24
 1. [[ Rust ] Comprehensive Rust - 흐름 제어](https://github.com/r3j0/TIL/blob/main/Rust/20240824_rust.md)
 2. [[ PS / FLOW ] 다이아몬드 네트워크 플로우 / MCMF 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20240824_flow.md)
 
 ### 2024. 08. 22
 1. [[ Rust ] Comprehensive Rust - 타입 및 값](https://github.com/r3j0/TIL/blob/main/Rust/20240822_rust.md)
 
-### 2024. 08. 21
-1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240821_boj.md)
-
 > ## 진행 중
-> 1. [ PS ] **AtCoder Problems / A ~ E 1 Set or Codeforces Problemset Difficulty 1300 ~ 1500 2 Solve**
-> 2. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
-> 3. [ JavaScript ] W3School JavaScript Tutorial
+> 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
+> 2. [ Rust ] Comprehensive Rust
 
 > ## 9월 목표
 > 1. Rating 2340+
@@ -31,6 +30,9 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 08. 21
+1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240821_boj.md)
 
 ### 2024. 08. 20
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240820_boj.md)
