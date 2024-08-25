@@ -20,10 +20,12 @@
 > 1. Rating 2340+
 > 2. TOPCIT Essence 완독
 > 3. Comprehensive Rust 2일차 오후 완료
+> 4. 윤성우 열혈 C++ 프로그래밍 PDF 완료
 > ### 9월 목표 진행도
 > 1. **달성!**
 > 2. /
 > 3. 1일차 오후 - 튜플 및 배열 완료
+> 4. /
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
