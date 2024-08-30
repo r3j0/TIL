@@ -1,16 +1,14 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 08. 28
+# 2024. 08. 30
+1. [[ PS / BOJ ] 백준 실버, 골드 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240830_boj.md)
+
+### 2024. 08. 28
 1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240828_boj.md)
 
 ### 2024. 08. 26
 1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240826_boj.md)
-
-### 2024. 08. 25
-1. [[ PS / BOJ ] 백준 실버, 골드 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240825_boj.md)
-2. [[ Rust ] Comprehensive Rust - 튜플 및 배열](https://github.com/r3j0/TIL/blob/main/Rust/20240825_rust.md)
-3. [[ C++ ] **윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 1, 2**](https://github.com/r3j0/TIL/blob/main/C++/20240825_cpp.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
@@ -54,6 +52,11 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 08. 25
+1. [[ PS / BOJ ] 백준 실버, 골드 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240825_boj.md)
+2. [[ Rust ] Comprehensive Rust - 튜플 및 배열](https://github.com/r3j0/TIL/blob/main/Rust/20240825_rust.md)
+3. [[ C++ ] **윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 1, 2**](https://github.com/r3j0/TIL/blob/main/C++/20240825_cpp.md)
 
 ### 2024. 08. 24
 1. [[ Rust ] Comprehensive Rust - 흐름 제어](https://github.com/r3j0/TIL/blob/main/Rust/20240824_rust.md)
