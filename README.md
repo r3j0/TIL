@@ -3,7 +3,7 @@
 
 # 2024. 08. 31
 1. [[ PS / BOJ ] **백준 실버, 골드 3문제 풀이**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240831_boj.md)
-2. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 3, 4, 5, 6
+2. [[ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 3, 4](https://github.com/r3j0/TIL/blob/main/C++/20240831_cpp.md)
 3. [ TOPCIT ] Essence 01 소프트웨어 개발 - I. 소프트웨어 공학 개요 ~ V. 소프트웨어 아키텍처 설계
 
 ### 2024. 08. 30
