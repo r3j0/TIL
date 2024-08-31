@@ -3,6 +3,8 @@
 
 # 2024. 08. 31
 1. [[ PS / BOJ ] **백준 실버, 골드 3문제 풀이**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240831_boj.md)
+2. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 3, 4, 5, 6
+3. [ TOPCIT ] Essence 01 소프트웨어 개발 - I. 소프트웨어 공학 개요 ~ V. 소프트웨어 아키텍처 설계
 
 ### 2024. 08. 30
 1. [[ PS / BOJ ] 백준 실버, 골드 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240830_boj.md)
@@ -12,37 +14,30 @@
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
-> 2. [ Rust ] Comprehensive Rust
+> 2. TOPCIT Essence
 > 3. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
 
-> ## 8월 다섯째주 목표 (8/26 ~ 9/1)
-> 1. TOPCIT 1과목 완료 및 블로그 포스팅
-> 2. TOPCIT 3과목 ~Unit 5 완료 및 블로그 포스팅
-> 3. ~~BiGStudy 서바이벌 스터디 세팅~~
-> ### 8월 다섯째주 목표 진행도
-> 1. 1-2 에버노트 정리 완료 (2 / 6)
-> 2. /
-> 3. **달성!**
 > ## 9월 목표
 > 1. [ PS ] ~~Rating 2340+~~
 > 2. TOPCIT Essence 완독
-> 3. [ Rust ] Comprehensive Rust 2일차 오후 완료
-> 4. [ C++ ] 윤성우 열혈 C++ 프로그래밍 PDF 완료
-> 5. [ C ]
-> 6. [ Python ]
-> 7. [ SQL ]
+> 3. [ C++ ] 윤성우 열혈 C++ 프로그래밍 PDF 완료 (1주차)
+> 4. [ C ] 윤성우 열혈 C 프로그래밍 PDF 완료 (2주차)
+> 5. [ Java ] (3주차)
+> 6. [ SQL ] (4주차)
+> 7. [ Python ] (5주차)
 > ### 9월 목표 진행도
 > 1. **달성!**
 > 2. /
-> 3. 1일차 오후 - 튜플 및 배열 완료 (2 / 4)
-> 4. Chapter 2 완료 (2 / 16)
+> 3. Chapter 2 완료 (2 / 16)
+> 4. /
 > 5. /
 > 6. /
 > 7. /
+
 > ## 10월 목표
 > 1. TOPCIT 기출문제 완료 및 시험 응시
 > 2. [ PS ] Rating 2370+
-> 3. [ Rust ] Comprehensive Rust 완료
+> 3. [ Rust ] Comprehensive Rust 완료 (1일차 오후 - 튜플 및 배열 완료 (2 / 4))
 > 4. 7월자 TIL 블로그화
 > 5. 블로그 방문 수 누적 10,000 달성
   
