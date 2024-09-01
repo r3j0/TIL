@@ -1,15 +1,15 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 08. 31
+# 2024. 09. 01
+1. [[ PS / BOJ ] 백준 실버, 골드 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240901_boj.md)
+
+### 2024. 08. 31
 1. [[ PS / BOJ ] **백준 실버, 골드 3문제 풀이**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240831_boj.md)
 2. [[ C++ ] **윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 3, 4**](https://github.com/r3j0/TIL/blob/main/C++/20240831_cpp.md)
 
 ### 2024. 08. 30
 1. [[ PS / BOJ ] 백준 실버, 골드 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240830_boj.md)
-
-### 2024. 08. 28
-1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240828_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
@@ -46,6 +46,9 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 08. 28
+1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240828_boj.md)
 
 ### 2024. 08. 26
 1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240826_boj.md)
