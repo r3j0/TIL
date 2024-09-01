@@ -3,6 +3,7 @@
 
 # 2024. 09. 01
 1. [[ PS / BOJ ] 백준 실버, 골드 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240901_boj.md)
+2. [[ C++ ] **윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 5, 6**](https://github.com/r3j0/TIL/blob/main/C++/20240901_cpp.md)
 
 ### 2024. 08. 31
 1. [[ PS / BOJ ] **백준 실버, 골드 3문제 풀이**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240831_boj.md)
@@ -27,7 +28,7 @@
 > ### 9월 목표 진행도
 > 1. **달성!**
 > 2. /
-> 3. Chapter 4 완료 (4 / 16)
+> 3. Chapter 6 완료 (6 / 16)
 > 4. /
 > 5. /
 > 6. /
