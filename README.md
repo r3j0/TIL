@@ -1,16 +1,15 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 09. 03
-1. [[ TOPCIT ] 1. 소프트웨어 개발 - 2. 소프트웨어 재사용](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240903_topcit.md)
+# 2024. 09. 04
+1. [[ TOPCIT ] 1. 소프트웨어 개발 - 1. 소프트웨어 공학 개요, 4. 소프트웨어 설계 원리와 구조적 설계 ~ 6. 객체 지향 설계]
+
+### 2024. 09. 03
+1. [[ TOPCIT ] 1. 소프트웨어 개발 - 1. 소프트웨어 공학 개요 ~ 3. 자료구조와 알고리즘](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240903_topcit.md)
 
 ### 2024. 09. 01
 1. [[ PS / BOJ ] 백준 실버, 골드 6문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240901_boj.md)
 2. [[ C++ ] **윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 5, 6**](https://github.com/r3j0/TIL/blob/main/C++/20240901_cpp.md)
-
-### 2024. 08. 31
-1. [[ PS / BOJ ] **백준 실버, 골드 3문제 풀이**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240831_boj.md)
-2. [[ C++ ] **윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 3, 4**](https://github.com/r3j0/TIL/blob/main/C++/20240831_cpp.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
@@ -27,7 +26,7 @@
 > 7. [ Python ] (5주차)
 > ### 9월 목표 진행도
 > 1. **달성!**
-> 2. 1과목 (1 / 14)
+> 2. 1과목 (2 / 14)
 > 3. Chapter 6 완료 (6 / 16)
 > 4. /
 > 5. /
@@ -47,6 +46,10 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 08. 31
+1. [[ PS / BOJ ] **백준 실버, 골드 3문제 풀이**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240831_boj.md)
+2. [[ C++ ] **윤성우의 열혈 C++ 프로그래밍 PDF - Chapter 3, 4**](https://github.com/r3j0/TIL/blob/main/C++/20240831_cpp.md)
 
 ### 2024. 08. 30
 1. [[ PS / BOJ ] 백준 실버, 골드 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240830_boj.md)
