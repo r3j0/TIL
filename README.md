@@ -1,8 +1,8 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 09. 04
-1. [[ TOPCIT ] 1. 소프트웨어 개발 - 1. 소프트웨어 공학 개요, 4. 소프트웨어 설계 원리와 구조적 설계 ~ 6. 객체 지향 설계]
+# 2024. 09. 08
+1. [[ PS / BOJ ] 백준 실버, 골드 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240908_boj.md)
 
 ### 2024. 09. 03
 1. [[ TOPCIT ] 1. 소프트웨어 개발 - 1. 소프트웨어 공학 개요 ~ 3. 자료구조와 알고리즘](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240903_topcit.md)
