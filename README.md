@@ -1,14 +1,14 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 09. 22
+# 2024. 09. 27
+1. [[ PS / BOJ ] 백준 실버, 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240927_boj.md)
+
+### 2024. 09. 22
 1. [[ PS / BOJ ] 백준 실버, 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240922_boj.md)
 
 ### 2024. 09. 21
 1. [[ PS / BOJ ] 백준 실버, 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240921_boj.md)
-
-### 2024. 09. 18
-1. [[ PS / BOJ ] 백준 실버, 골드 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240918_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
@@ -45,6 +45,9 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 09. 18
+1. [[ PS / BOJ ] 백준 실버, 골드 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240918_boj.md)
 
 ### 2024. 09. 14
 1. [[ PS / BOJ ] 백준 실버, 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240914_boj.md)
