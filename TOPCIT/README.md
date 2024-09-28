@@ -4,8 +4,8 @@
 - 범위 공부도 하면서, 언어 공부도 정리하기.
 
 > ### 9/28 계획
-> - [ ] 1-1
-> - [ ] 1-2
+> - [x] 1-1
+> - [x] 1-2
 > - [ ] 1-3
 > - [ ] 1-4
 > - [ ] 1-5
@@ -16,3 +16,7 @@
 
 ## 파이썬 오개념
 - [파이썬 코딩도장 Unit 1 ~ Unit 21](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
+
+## 1. 소프트웨어 개발
+- [1-1](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_1.md)
+- [1-2](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_2.md)
