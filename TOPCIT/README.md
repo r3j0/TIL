@@ -6,7 +6,7 @@
 > ### 9/28 계획
 > - [x] 1-1
 > - [x] 1-2
-> - [ ] 1-3
+> - [x] 1-3
 > - [ ] 1-4
 > - [ ] 1-5
 > - [ ] 1-6
@@ -22,5 +22,6 @@
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_1.md">1-1</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_2.md">1-2</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_2.md">1-3</a></td>
   </tr>
 </table>
