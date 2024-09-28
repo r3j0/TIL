@@ -18,5 +18,9 @@
 - [파이썬 코딩도장 Unit 1 ~ Unit 21](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
 
 ## 1. 소프트웨어 개발
-- [1-1](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_1.md)
-- [1-2](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_2.md)
+<table>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_1.md">1-1</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_2.md">1-2</a></td>
+  </tr>
+</table>
