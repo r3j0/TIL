@@ -1,7 +1,10 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 09. 28
+# 2024. 09. 29
+1. [[ PS / BOJ ] 백준 실버, 골드, 플래티넘 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240929_boj.md)
+
+### 2024. 09. 28
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240928_boj.md)
    
 ### 2024. 09. 27
