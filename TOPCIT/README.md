@@ -9,7 +9,7 @@
 > - [ ] 1-6
 > - [ ] 1-8
 > - [ ] 1-9
-> - [ ] 2-4
+> - [x] 2-4
 > - [ ] 2-5
 > - [ ] 2-6
 > #### 저녁
@@ -49,5 +49,12 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_3.md">1-3</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_4.md">1-4</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_5.md">1-5</a></td>
+  </tr>
+</table>
+
+## 2. 데이터 이해와 활용
+<table>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_4.md">2-4</a></td>
   </tr>
 </table>
