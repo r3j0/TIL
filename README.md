@@ -2,13 +2,13 @@
 ***Today I Learned***
 
 # 2024. 09. 30
+1. [[ PS / LIS ] 골드, 플래티넘 LIS 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20241001_lis.md)
+
+### 2024. 09. 30
 1. [[ PS / LIS ] **가장 긴 증가하는 부분 수열 알고리즘 이해 및 연습 (백준 3문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/LIS/20240930_lis.md)
 
 ### 2024. 09. 29
 1. [[ PS / BOJ ] 백준 실버, 골드, 플래티넘 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240929_boj.md)
-
-### 2024. 09. 28
-1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240928_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
@@ -46,7 +46,10 @@
 
 <br><br><br>
 
-   ### 2024. 09. 27
+### 2024. 09. 28
+1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240928_boj.md)
+
+### 2024. 09. 27
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240927_boj.md)
 
 ### 2024. 09. 22
