@@ -44,3 +44,10 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_4.md">2-4</a></td>
   </tr>
 </table>
+
+## 6. 프로젝트 관리 및 테크니컬 커뮤니케이션
+<table>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240930_topcit6.md">6-1 ~ 6-6</a></td>
+  </tr>
+</table>
