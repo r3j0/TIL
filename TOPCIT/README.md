@@ -34,7 +34,7 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_3.md">1-3</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_4.md">1-4</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_5.md">1-5</a></td>
-    <td>1-6</td>
+    <td><a href="https://github.com/r3j0/TIL/tree/main/TOPCIT/20241001_topcit_1_6.md">1-6</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240909_topcit.md">1-7</td>
   </tr>
   <tr>
