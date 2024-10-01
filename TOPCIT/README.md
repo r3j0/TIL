@@ -49,5 +49,6 @@
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240930_topcit6.md">6-1 ~ 6-6</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241001_topcit6.md">6-7</a></td>
   </tr>
 </table>
