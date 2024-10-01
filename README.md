@@ -3,6 +3,7 @@
 
 # 2024. 10. 01
 1. [[ PS / LIS ] 골드, 플래티넘 LIS 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20241001_lis.md)
+2. [[ C++ ] 윤성우의 열혈 C++ 프로그래밍 Chapter 1 정리](https://github.com/r3j0/TIL/blob/main/C%2B%2B/20241001_cpp1.md)
 
 ### 2024. 09. 30
 1. [[ PS / LIS ] **가장 긴 증가하는 부분 수열 알고리즘 이해 및 연습 (백준 3문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/LIS/20240930_lis.md)
