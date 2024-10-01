@@ -1,7 +1,7 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 09. 30
+# 2024. 10. 01
 1. [[ PS / LIS ] 골드, 플래티넘 LIS 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20241001_lis.md)
 
 ### 2024. 09. 30
