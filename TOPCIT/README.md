@@ -25,7 +25,6 @@
 ## [오답노트](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
-- 
 
 ## 1. 소프트웨어 개발
 <table>
@@ -35,6 +34,11 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_3.md">1-3</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_4.md">1-4</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_5.md">1-5</a></td>
+    <td>1-6</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_8.md">1-8</a></td>
+    <td>1-9</td>
   </tr>
 </table>
 
