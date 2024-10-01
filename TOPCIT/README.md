@@ -25,19 +25,21 @@
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
 
+- 볼드체는 인쇄완료
+
 ## 1. 소프트웨어 개발
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_1.md">1-1</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_2.md">1-2</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_3.md">1-3</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_4.md">1-4</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_5.md">1-5</a></td>
-    <td><a href="https://github.com/r3j0/TIL/tree/main/TOPCIT/20241001_topcit_1_6.md">1-6</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240909_topcit.md">1-7</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_1.md"><b>1-1</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_2.md"><b>1-2</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_3.md"><b>1-3</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_4.md"><b>1-4</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_5.md"><b>1-5</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/tree/main/TOPCIT/20241001_topcit_1_6.md"><b>1-6</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240909_topcit.md"><b>1-7</b></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_8.md">1-8</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_8.md"><b>1-8</b></a></td>
     <td>1-9</td>
   </tr>
 </table>
@@ -52,7 +54,7 @@
 ## 6. 프로젝트 관리 및 테크니컬 커뮤니케이션
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240930_topcit6.md">6-1 ~ 6-6</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241001_topcit6.md">6-7</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240930_topcit6.md"><b>6-1 ~ 6-6</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241001_topcit6.md"><b>6-7</b></a></td>
   </tr>
 </table>
