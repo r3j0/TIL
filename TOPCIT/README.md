@@ -24,6 +24,10 @@
 ## [오답노트](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
+- 점프 투 자바
+- 열혈 C++ 프로그래밍
+- C 코딩도장
+- W3Schools SQL
 
 - 볼드체는 인쇄완료
 
