@@ -44,8 +44,7 @@
     <td>1-10</td>
     <td>1-11</td>
     <td>1-12</td>
-    <td>1-13</td>
-    <td>1-14</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_13.md">1-13 ~ 1-14</a></td>
   </tr>
 </table>
 
