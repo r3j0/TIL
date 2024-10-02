@@ -1,15 +1,15 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 10. 01
+# 2024. 10. 02
+1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241002_boj.md)
+
+### 2024. 10. 01
 1. [[ PS / LIS ] 골드, 플래티넘 LIS 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20241001_lis.md)
 2. [[ C++ ] 윤성우의 열혈 C++ 프로그래밍 Chapter 1 정리](https://github.com/r3j0/TIL/blob/main/C%2B%2B/20241001_cpp1.md)
 
 ### 2024. 09. 30
 1. [[ PS / LIS ] **가장 긴 증가하는 부분 수열 알고리즘 이해 및 연습 (백준 3문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/LIS/20240930_lis.md)
-
-### 2024. 09. 29
-1. [[ PS / BOJ ] 백준 실버, 골드, 플래티넘 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240929_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
@@ -46,6 +46,9 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 09. 29
+1. [[ PS / BOJ ] 백준 실버, 골드, 플래티넘 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240929_boj.md)
 
 ### 2024. 09. 28
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240928_boj.md)
