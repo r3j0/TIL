@@ -42,8 +42,8 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_8.md"><b>1-8</b></a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_9.md">1-9</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_10.md">1-10</a></td>
-    <td>1-11</td>
-    <td>1-12</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_11.md">1-11</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_12.md">1-12</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_13.md">1-13 ~ 1-14</a></td>
   </tr>
 </table>
