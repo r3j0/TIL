@@ -60,8 +60,7 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_5.md">2-5</a></td>
     <td>2-6</td>
     <td>2-7</td>
-    <td>2-8</td>
-    <td>2-9</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_8.md">2-8 ~ 2-9</a></td>
   </tr>
 </table>
 
