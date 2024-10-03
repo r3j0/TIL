@@ -55,7 +55,13 @@
 ## 2. 데이터 이해와 활용
 <table>
   <tr>
+    <td>2-1 ~ 2-3
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_4.md">2-4</a></td>
+    <td>2-5</td>
+    <td>2-6</td>
+    <td>2-7</td>
+    <td>2-8</td>
+    <td>2-9</td>
   </tr>
 </table>
 
