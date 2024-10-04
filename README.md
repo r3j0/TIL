@@ -2,7 +2,7 @@
 ***Today I Learned***
 
 # 2024. 10. 04
-1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241004_boj.md)
+1. [[ PS / BOJ ] 백준 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241004_boj.md)
 
 ### 2024. 10. 03
 1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241003_boj.md)
