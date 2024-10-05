@@ -12,26 +12,9 @@
 1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241003_boj.md)
 
 > ## 진행 중
-> 1. [ PS ] **BOJ Silver Gold 솔브 순 1 Solve**
-> 2. TOPCIT Essence
+> 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
+> 2. [ TOPCIT ] TOPCIT Essence
 > 3. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
-
-> ## 9월 목표
-> 1. [ PS ] ~~Rating 2340+~~
-> 2. TOPCIT Essence 완독
-> 3. [ C++ ] 윤성우 열혈 C++ 프로그래밍 PDF 완료 (1주차)
-> 4. [ C ] 윤성우 열혈 C 프로그래밍 PDF 완료 (2주차)
-> 5. [ Java ] (3주차)
-> 6. [ SQL ] (4주차)
-> 7. [ Python ] (5주차)
-> ### 9월 목표 진행도
-> 1. **달성!**
-> 2. 진행중
-> 3. Chapter 6 완료 (6 / 16)
-> 4. /
-> 5. /
-> 6. /
-> 7. /
 
 > ## 10월 목표
 > 1. TOPCIT 기출문제 완료 및 시험 응시
