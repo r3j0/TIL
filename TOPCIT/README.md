@@ -66,5 +66,6 @@
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240930_topcit6.md"><b>6-1 ~ 6-6</b></a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241001_topcit6.md"><b>6-7</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_8.md">6-8</a></td>
   </tr>
 </table>
