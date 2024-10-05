@@ -29,9 +29,11 @@
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
 - 점프 투 자바
-- 열혈 C++ 프로그래밍
+- 열혈 C++ 프로그래밍 (~ Chapter 2)
 - C 코딩도장
-- W3Schools SQL
+> #### SQL
+> - [SQL 기초 & 자주쓰는 쿼리문 정리](https://365kim.tistory.com/102)
+> - [기본 SQL Query문 정리](https://lcs1245.tistory.com/entry/%EA%B8%B0%EB%B3%B8-SQL-Query%EB%AC%B8-%EC%A0%95%EB%A6%AC-SELECT-INSERT-UPDATE-DELETE)
 
 - 볼드체는 인쇄완료
 
