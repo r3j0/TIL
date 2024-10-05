@@ -3,6 +3,7 @@
 
 # 2024. 10. 05
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241005_boj.md)
+2. [[ C++ ] 윤성우의 열혈 C++ 프로그래밍 Chapter 2 정리](https://github.com/r3j0/TIL/blob/main/C%2B%2B/20241005_cpp2.md)
 
 ### 2024. 10. 04
 1. [[ PS / BOJ ] 백준 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241004_boj.md)
