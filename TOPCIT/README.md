@@ -71,6 +71,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_10.md">6-10</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_11.md">6-11</a></td>
+    <td>6-11</td>
+    <td>6-12 ~ 6-14</td>
   </tr>
 </table>
