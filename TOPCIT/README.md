@@ -69,4 +69,8 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_8.md">6-8</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_9.md">6-9</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_10.md">6-10</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_11.md">6-11</a></td>
+  </tr>
 </table>
