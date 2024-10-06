@@ -37,7 +37,7 @@
 
 - 볼드체는 인쇄완료
 
-## 1. 소프트웨어 개발
+## ~~1. 소프트웨어 개발~~
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_1.md"><b>1-1</b></a></td>
@@ -84,7 +84,7 @@
   </tr>
 </table>
 
-## 6. 프로젝트 관리 및 테크니컬 커뮤니케이션
+## ~~6. 프로젝트 관리 및 테크니컬 커뮤니케이션~~
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240930_topcit6.md"><b>6-1 ~ 6-6</b></a></td>
@@ -96,6 +96,6 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_10.md">6-10</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_11.md">6-11</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_12.md">6-12</a></td>
-    <td>6-13</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_6_13.md">6-13 ~ 6-14</td>
   </tr>
 </table>
