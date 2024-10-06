@@ -80,9 +80,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_1.md">5-1 ~ 5-2</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_10.md">5-10 ~ 5-11</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_10.md">5-9 ~ 5-13</a></td>
   </tr>
 </table>
 
