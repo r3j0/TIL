@@ -77,6 +77,13 @@
   </tr>
 </table>
 
+## 5. IT비즈니스와 윤리
+<table>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_1.md">5-1 ~ 5-2</a></td>
+  </tr>
+</table>
+
 ## 6. 프로젝트 관리 및 테크니컬 커뮤니케이션
 <table>
   <tr>
