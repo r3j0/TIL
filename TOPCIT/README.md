@@ -69,6 +69,10 @@
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_10.md">2-10</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_11.md">2-11</a></td>
+    <td>2-12</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_13.md">2-13</a></td>
+    <td>2-14</td>
+    <td>2-15</td>
   </tr>
 </table>
 
