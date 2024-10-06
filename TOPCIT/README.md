@@ -66,6 +66,9 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_6.md">2-6 ~ 2-7</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_8.md">2-8 ~ 2-9</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_10.md">2-10</a></td>
+  </tr>
 </table>
 
 ## 3. 시스템아키텍처 이해와 활용
