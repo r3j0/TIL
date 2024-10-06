@@ -1,15 +1,15 @@
 # TIL
 ***Today I Learned***
 
-# 2024. 10. 05
+# 2024. 10. 06
+1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241006_boj.md)
+
+### 2024. 10. 05
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241005_boj.md)
 2. [[ C++ ] 윤성우의 열혈 C++ 프로그래밍 Chapter 2 정리](https://github.com/r3j0/TIL/blob/main/C%2B%2B/20241005_cpp2.md)
 
 ### 2024. 10. 04
 1. [[ PS / BOJ ] 백준 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241004_boj.md)
-
-### 2024. 10. 03
-1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241003_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
@@ -29,6 +29,9 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 10. 03
+1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241003_boj.md)
 
 ### 2024. 10. 02
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241002_boj.md)
