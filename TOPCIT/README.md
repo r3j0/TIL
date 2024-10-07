@@ -46,28 +46,28 @@
   </tr>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_8.md"><b>1-8</b></a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_9.md">1-9</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_10.md">1-10</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_11.md">1-11</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_12.md">1-12</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_13.md">1-13 ~ 1-14</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_9.md"><b>1-9</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_10.md"><b>1-10</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_11.md"><b>1-11</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_12.md"><b>1-12</b>b</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_13.md"><b>1-13 ~ 1-14</b></a></td>
   </tr>
 </table>
 
 ## 2. 데이터 이해와 활용
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_1.md">2-1 ~ 2-3</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_4.md">2-4</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_5.md">2-5</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_6.md">2-6 ~ 2-7</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_8.md">2-8 ~ 2-9</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_1.md"><b>2-1 ~ 2-3</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_4.md"><b>2-4</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_5.md"><b>2-5</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_6.md"><b>2-6 ~ 2-7</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_8.md"><b>2-8 ~ 2-9</b></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_10.md">2-10</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_11.md">2-11</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_10.md"><b>2-10</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_11.md"><b>2-11</b></a></td>
     <td>2-12</td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_13.md">2-13</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_13.md"><b>2-13</b></a></td>
     <td>2-14</td>
     <td>2-15</td>
   </tr>
@@ -83,7 +83,7 @@
 ## 5. IT비즈니스와 윤리
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_1.md">5-1 ~ 5-2</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_1.md"><b>5-1 ~ 5-2</b></a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_10.md">5-9 ~ 5-13</a> (5-9) 미완</td>
   </tr>
 </table>
@@ -93,13 +93,13 @@
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240930_topcit6.md"><b>6-1 ~ 6-6</b></a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241001_topcit6.md"><b>6-7</b></a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_8.md">6-8</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_9.md">6-9</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_8.md"><b>6-8</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_9.md"><b>6-9</b></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_10.md">6-10</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_11.md">6-11</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_12.md">6-12</a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_6_13.md">6-13 ~ 6-14</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_10.md"><b>6-10</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_11.md"><b>6-11</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_12.md"><b>6-12</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_6_13.md"><b>6-13 ~ 6-14</b></td>
   </tr>
 </table>
