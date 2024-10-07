@@ -10,9 +10,8 @@
 
 - 암기만 있는 건 따로 자료 만들어둘 것! 
 - 10/7
-1. 수험표 출력
-2. 2, 5과목 완료
-3. 인쇄해서 전체 n회독 하기
+1. 2, 5과목 완료
+2. 2-5, 2-8 은 노트정리
 - 10/8 (휴)
 1. 4과목 완료
 3. 3과목 1/3
@@ -59,9 +58,9 @@
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_1.md"><b>2-1 ~ 2-3</b></a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_4.md"><b>2-4</b></a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_5.md"><b>2-5</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_5.md">2-5</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_6.md"><b>2-6 ~ 2-7</b></a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_8.md"><b>2-8 ~ 2-9</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_8.md">2-8 ~ 2-9</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_10.md"><b>2-10</b></a></td>
