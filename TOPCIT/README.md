@@ -49,12 +49,12 @@
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_9.md"><b>1-9</b></a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_10.md"><b>1-10</b></a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_11.md"><b>1-11</b></a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_12.md"><b>1-12</b>b</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_12.md"><b>1-12</b></a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_13.md"><b>1-13 ~ 1-14</b></a></td>
   </tr>
 </table>
 
-## 2. 데이터 이해와 활용
+## ~~2. 데이터 이해와 활용~~
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_1.md"><b>2-1 ~ 2-3</b></a></td>
