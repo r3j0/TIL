@@ -21,6 +21,7 @@
 </details>
 
 ## [오답노트](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
+## [2과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit2.md)
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
 - 점프 투 자바
