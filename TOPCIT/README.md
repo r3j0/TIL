@@ -28,7 +28,7 @@
 ## 6과목 요약
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
-- 점프 투 자바
+- [자바 문법 정리](https://velog.io/@rlafbf222/JAVA-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 - 열혈 C++ 프로그래밍 (~ Chapter 2)
 - C 코딩도장
 > #### SQL
