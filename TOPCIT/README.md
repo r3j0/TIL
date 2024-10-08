@@ -24,8 +24,6 @@
 ## [오답노트](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
 ## [1과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit_1.md)
 ## [2과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit2.md)
-## 5과목 요약
-## 6과목 요약
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
 - [자바 문법 정리](https://velog.io/@rlafbf222/JAVA-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
