@@ -82,14 +82,14 @@
 ## 3. 시스템아키텍처 이해와 활용
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit3.md">3과목</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit3.md">3과목 (미완)</a></td>
   </tr>
 </table>
 
 ## 4. 정보보안 이해와 활용
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_4_1.md">4과목</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_4_1.md">4과목 (미완)</a></td>
   </tr>
 </table>
 
@@ -97,7 +97,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_1.md"><b>5-1 ~ 5-2</b></a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_9.md">5-9 ~ 5-13</a> (5-9) 미완</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_9.md">5-8 ~ 5-13</a></td>
   </tr>
 </table>
 
