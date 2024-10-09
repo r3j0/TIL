@@ -23,9 +23,9 @@
 
 </details>
 
-## [오답노트](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
-## [1과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit_1.md)
-## [2과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit2.md)
+## [오답노트 (인쇄 완)](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
+## [1과목 요약 (인쇄 완)](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit_1.md)
+## [2과목 요약 (인쇄 완)](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit2.md)
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
 - [자바 문법 정리](https://velog.io/@rlafbf222/JAVA-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
@@ -80,14 +80,15 @@
 ## 3. 시스템아키텍처 이해와 활용
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit3.md">3과목 (미완)</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit3.md">3과목 (미완) <b>기출문제만 인쇄</b></a></td>
   </tr>
 </table>
 
 ## 4. 정보보안 이해와 활용
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_4_1.md">4과목 (미완)</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_4_1.md"><b>4-1, 4-4 ~ 4-7</b></a></td>
+    <td>4-2, 4-3, 4-8</td>
   </tr>
 </table>
 
@@ -95,7 +96,8 @@
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_1.md"><b>5-1 ~ 5-2</b></a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_9.md">5-8 ~ 5-13</a></td>
+    <td>5-3 ~ 5-7</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_9.md"><b>5-8 ~ 5-13</b></a></td>
   </tr>
 </table>
 
