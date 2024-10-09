@@ -82,6 +82,13 @@
   </tr>
 </table>
 
+## 4. 정보보안 이해와 활용
+<table>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_4_1.md">4과목</a></td>
+  </tr>
+</table>
+
 ## 5. IT비즈니스와 윤리
 <table>
   <tr>
