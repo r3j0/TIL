@@ -92,12 +92,11 @@
   </tr>
 </table>
 
-## 5. IT비즈니스와 윤리
+## ~~5. IT비즈니스와 윤리~~
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_1.md"><b>5-1 ~ 5-2</b></a></td>
-    <td>5-3 ~ 5-4</td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_5_5.md">5-5 ~ 5-7 (5-5 미완)</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_5_5.md">5-3 ~ 5-7</td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_9.md"><b>5-8 ~ 5-13</b></a></td>
   </tr>
 </table>
