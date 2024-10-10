@@ -84,11 +84,11 @@
   </tr>
 </table>
 
-## 4. 정보보안 이해와 활용
+## ~~4. 정보보안 이해와 활용~~
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_4_1.md"><b>4-1, 4-4 ~ 4-7</b></a></td>
-    <td>4-2, 4-3, 4-8</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md">4-2, 4-3, 4-8</a></td>
   </tr>
 </table>
 
