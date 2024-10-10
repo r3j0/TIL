@@ -73,7 +73,11 @@
 ## 3. 시스템아키텍처 이해와 활용
 <table>
   <tr>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit3.md">3과목 (미완) <b>기출문제만 인쇄</b></a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit3.md"><b>3-1 ~ 3-2 + 기출문제</b></a></td>
+    <td>3-3 ~ 3-5</td>
+    <td>3-6 ~ 3-10</td>
+    <td>3-11 ~ 3-13</td>
+    <td>3-14 ~ 3-16</td>
   </tr>
 </table>
 
