@@ -9,30 +9,26 @@
 <details>
 
 ## 인쇄 종이 계속 읽기
-> - 10/10
-> ### 연등
-> 1. 4과목 기출문제 완료
-> 2. 3과목 1/2
+> #### 10/10
+> 1. 3과목 1/3
 > 
-> - 10/11
-> 1. 인쇄 종이 / 특강 요약 종이
-> 2. 3과목 완료할 것.
+> #### 10/11
+> - 낮. 인쇄 종이 / 특강 요약 종이
+> - 오후. 3과목 2/3
+> - 연등. 3과목 3/3
 
 </details>
 
-## [오답노트 (인쇄 완)](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
-## [1과목 요약 (인쇄 완)](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit_1.md)
-## [2과목 요약 (인쇄 완)](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit2.md)
+- [비즈니스 영역 예상문제](https://jinty1004.tistory.com/category/%ED%83%91%EC%8B%AF%28Topcit%29%20%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C?page=2)
+## [오답노트](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
+## [1과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit_1.md)
+## [2과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit2.md)
 
 - [파이썬 코딩도장 Unit 1 ~ Unit 32](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
 - [자바 문법 정리](https://velog.io/@rlafbf222/JAVA-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
-- 열혈 C++ 프로그래밍 (~ Chapter 2)
-- C 코딩도장
 > #### SQL
 > - [SQL 기초 & 자주쓰는 쿼리문 정리](https://365kim.tistory.com/102)
 > - [기본 SQL Query문 정리](https://lcs1245.tistory.com/entry/%EA%B8%B0%EB%B3%B8-SQL-Query%EB%AC%B8-%EC%A0%95%EB%A6%AC-SELECT-INSERT-UPDATE-DELETE)
-
-- 볼드체는 인쇄완료
 
 ## ~~1. 소프트웨어 개발~~
 <table>
