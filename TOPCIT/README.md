@@ -88,7 +88,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_4_1.md"><b>4-1, 4-4 ~ 4-7</b></a></td>
-    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md">4-2, 4-3, 4-8</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md">4-2, 4-3, 4-8 + 기출</a></td>
   </tr>
 </table>
 
