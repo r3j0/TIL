@@ -19,6 +19,16 @@
 
 </details>
 
+# 볼 것들
+
+<table>
+  <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_3_14.md">3-14 ~ 3-16</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md">4-2, 4-3, 4-8 + 기출</a>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_5_5.md">5-3 ~ 5-7</td>
+  </tr>
+</table>
+
 - [비즈니스 영역 예상문제](https://jinty1004.tistory.com/category/%ED%83%91%EC%8B%AF%28Topcit%29%20%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C?page=2)
 ## [오답노트](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
 ## [1과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit_1.md)
@@ -30,6 +40,8 @@
 > - [SQL 기초 & 자주쓰는 쿼리문 정리](https://365kim.tistory.com/102)
 > - [기본 SQL Query문 정리](https://lcs1245.tistory.com/entry/%EA%B8%B0%EB%B3%B8-SQL-Query%EB%AC%B8-%EC%A0%95%EB%A6%AC-SELECT-INSERT-UPDATE-DELETE)
 
+
+# 전체
 ## ~~1. 소프트웨어 개발~~
 <table>
   <tr>
