@@ -77,7 +77,7 @@
     <td>3-3 ~ 3-5</td>
     <td>3-6 ~ 3-10</td>
     <td>3-11 ~ 3-13</td>
-    <td>3-14 ~ 3-16</td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_3_14.md">3-14 ~ 3-16</a></td>
   </tr>
 </table>
 
