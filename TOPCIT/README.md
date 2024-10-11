@@ -13,6 +13,8 @@
 
 <table>
   <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_1.md">2-1 ~ 2-3</a></td>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_4.md">2-4</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241011_topcit_3_3.md">3-3 ~ 3-6</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_3_14.md">3-14 ~ 3-16</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md">4-2, 4-3, 4-8 + 기출</a>
@@ -21,6 +23,7 @@
 </table>
 
 - [비즈니스 영역 예상문제](https://jinty1004.tistory.com/category/%ED%83%91%EC%8B%AF%28Topcit%29%20%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C?page=2)
+- TOPCIT 3과목 3-7 ~ 3-13
 
 - - - 
 
