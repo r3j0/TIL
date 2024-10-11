@@ -1,6 +1,8 @@
 # TIL
 ***Today I Learned***
 
+[탑싯 바로가기](https://github.com/r3j0/TIL/blob/main/TOPCIT/README.md)
+
 # 2024. 10. 06
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241006_boj.md)
 
