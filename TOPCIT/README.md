@@ -6,20 +6,10 @@
 - 기출문제를 봤는데, 실습 가능한 건 숙달해두기만 하고, 예시나 개념이 나오는 것은 키워드만 정리해서 암기하는게 좋을 듯
 - 전체적으로 흐름만 보면서, 기출문제랑 풀이영상 위주 문제 개념 중요시하고, 그 외의 것들은 프린트 or 필사해서 암기하기
 
-<details>
 
-## 인쇄 종이 계속 읽기
-> #### 10/10
-> 1. 3과목 1/3
-> 
-> #### 10/11
-> - 낮. 인쇄 종이 / 특강 요약 종이
-> - 오후. 3과목 2/3
-> - 연등. 3과목 3/3
+- - - 
 
-</details>
-
-# 볼 것들
+# 마지막으로 볼 것들
 
 <table>
   <tr>
@@ -31,6 +21,9 @@
 </table>
 
 - [비즈니스 영역 예상문제](https://jinty1004.tistory.com/category/%ED%83%91%EC%8B%AF%28Topcit%29%20%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C?page=2)
+
+- - - 
+
 ## [오답노트](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
 ## [1과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit_1.md)
 ## [2과목 요약](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit2.md)
