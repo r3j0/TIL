@@ -23,6 +23,7 @@
 
 <table>
   <tr>
+    <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241011_topcit_3_3.md">3-3 ~ 3-6</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_3_14.md">3-14 ~ 3-16</a></td>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md">4-2, 4-3, 4-8 + 기출</a>
     <td><a href="https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_5_5.md">5-3 ~ 5-7</td>
