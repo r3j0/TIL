@@ -4,12 +4,12 @@
 # 2024. 10. 13
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241013_boj.md)
 
-### 2024. 10. 06
-1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241006_boj.md)
+### 2024. 10. 11
+1. [[ TOPCIT ] 3. 시스템아키텍처 이해와 활용 - 3. 운영체제 ~ 6. 정보시스템 구축 기술](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241011_topcit_3_3.md)
 
-### 2024. 10. 05
-1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241005_boj.md)
-2. [[ C++ ] 윤성우의 열혈 C++ 프로그래밍 Chapter 2 정리](https://github.com/r3j0/TIL/blob/main/C%2B%2B/20241005_cpp2.md)
+### 2024. 10. 10
+1. [[ TOPCIT ] 3. 시스템아키텍처 이해와 활용 - 14. 웹 응용을 포함한 응용 계층 기술 ~ 16. 최신 기술](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_3_14.md)
+2. [[ TOPCIT ] 4. 정보보안 이해와 활용 - 2. 정보보안 기반 기술, 3. 정보보안 최신 기술, 8. 네트워크 보안 이해하기, 특강 및 기출문제 정리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
@@ -30,36 +30,87 @@
 
 <br><br><br>
 
+### 2024. 10. 09
+1. [[ TOPCIT ] 3. 시스템아키텍처 이해화 활용 - 1. 시스템 개념 ~ 2. 네트워크 개념, 특강 및 기출문제 정리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit3.md)
+2. [[ TOPCIT ] 4. 정보보안 이해와 활용 - 1. 정보보안 개념, 4. 보안관리체계와 표준 ~ 7. 네트워크보안 이해하기](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_4_1.md)
+3. [[ TOPCIT ] 5. IT비즈니스와 윤리 - 3. IT 비즈니스 계획수립의 이해 ~ 7. IT 비즈니스 성과평가 이해하기](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit_5_5.md)
+
+### 2024. 10. 08
+1. [[ TOPCIT ] 1. 소프트웨어 개발 - 특강 및 기출문제 정리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit_1.md)
+2. [[ TOPCIT ] 2. 데이터 이해와 활용 - 특강 및 기출문제 정리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241008_topcit2.md)
+
+### 2024. 10. 06
+1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241006_boj.md)
+2. [[ TOPCIT ] 6. 프로젝트 관리 및 테크니컬 커뮤니케이션 - 13. 위험관리 ~ 14. 프로젝트 도구 및 평가](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_6_13.md)
+3. [[ TOPCIT ] 2. 데이터 이해와 활용 - 6. 데이터베이스 물리설계 ~ 7. 데이터베이스 품질과 표준화](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_6.md)
+4. [[ TOPCIT ] 2. 데이터 이해와 활용 - 10. 데이터베이스 질의 응용](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_10.md)
+5. [[ TOPCIT ] 2. 데이터 이해와 활용 - 11. 동시성제어](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_11.md)
+6. [[ TOPCIT ] 2. 데이터 이해와 활용 - 13. 데이터베이스 분석 이해](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_2_13.md)
+7. [[ TOPCIT ] 5. IT비즈니스와 윤리 - 1. IT 비즈니스 개념 ~ 2. IT 비즈니스 전략](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_1.md)
+8. [[ TOPCIT ] 5. IT비즈니스와 윤리 - 3. IT 비즈니스 계획수립의 이해 ~ 7. IT 비즈니스 성과평가 이해하기](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_3.md)
+9. [[ TOPCIT ] 5. IT비즈니스와 윤리 - 8. IT 비즈니스 환경변화와 대응 ~ 13. IT 비즈니스 최신 서비스의 윤리적 이슈](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241006_topcit_5_9.md)
+
+### 2024. 10. 05
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241005_boj.md)
+2. [[ C++ ] 윤성우의 열혈 C++ 프로그래밍 Chapter 2 정리](https://github.com/r3j0/TIL/blob/main/C%2B%2B/20241005_cpp2.md)
+3. [[ TOPCIT ] 6. 프로젝트 관리 및 테크니컬 커뮤니케이션 - 8. 프로젝트 프로세스와 관리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_8.md)
+4. [[ TOPCIT ] 6. 프로젝트 관리 및 테크니컬 커뮤니케이션 - 9. 범위관리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_9.md)
+5. [[ TOPCIT ] 6. 프로젝트 관리 및 테크니컬 커뮤니케이션 - 10. 일정관리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_10.md)
+6. [[ TOPCIT ] 6. 프로젝트 관리 및 테크니컬 커뮤니케이션 - 11. 원가관리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_11.md)
+7. [[ TOPCIT ] 6. 프로젝트 관리 및 테크니컬 커뮤니케이션 - 12. 품질관리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241005_topcit_6_12.md)
+
 ### 2024. 10. 04
 1. [[ PS / BOJ ] 백준 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241004_boj.md)
 
 ### 2024. 10. 03
 1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241003_boj.md)
+2. [[ TOPCIT ] 2. 데이터 이해와 활용 - 1. 데이터와 데이터베이스의 이해 ~ 3. 데이터베이스 설계 및 구축절차](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_1.md)
+3. [[ TOPCIT ] 2. 데이터 이해와 활용 - 8. 관계연산(관계대수) ~ 9. 관계 데이터베이스 언어 (SQL)](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241003_topcit_2_8.md)
 
 ### 2024. 10. 02
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241002_boj.md)
+2. [[ TOPCIT ] 1. 소프트웨어 개발 - 9. 소프트웨어 테스팅과 리팩토링](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_9.md)
+3. [[ TOPCIT ] 1. 소프트웨어 개발 - 10. 소프트웨어 요구관리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_10.md)
+4. [[ TOPCIT ] 1. 소프트웨어 개발 - 11. 소프트웨어 형상관리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_11.md)
+5. [[ TOPCIT ] 1. 소프트웨어 개발 - 12. 소프트웨어 유지관리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_12.md)
+6. [[ TOPCIT ] 1. 소프트웨어 개발 - 13. 소프트웨어 테스팅과 리팩토링 ~ 14. 소프트웨어 개발 동향](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241002_topcit_1_13.md)
 
 ### 2024. 10. 01
 1. [[ PS / LIS ] 골드, 플래티넘 LIS 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20241001_lis.md)
 2. [[ C++ ] 윤성우의 열혈 C++ 프로그래밍 Chapter 1 정리](https://github.com/r3j0/TIL/blob/main/C%2B%2B/20241001_cpp1.md)
+3. [[ TOPCIT ] 6. 프로젝트 관리 및 테크니컬 커뮤니케이션 - 7. 프로젝트 이해](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241001_topcit6.md)
+4. [[ TOPCIT ] 1. 소프트웨어 개발 - 6. 객체 지향 설계](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241001_topcit_1_6.md)
 
 ### 2024. 09. 30
 1. [[ PS / LIS ] **가장 긴 증가하는 부분 수열 알고리즘 이해 및 연습 (백준 3문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/LIS/20240930_lis.md)
+2. [[ TOPCIT ] 6. 프로젝트 관리 및 테크니컬 커뮤니케이션 - 1. 비즈니스 커뮤니케이션 개요 ~ 6. 프레젠테이션](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240930_topcit6.md)
 
 ### 2024. 09. 29
 1. [[ PS / BOJ ] 백준 실버, 골드, 플래티넘 4문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240929_boj.md)
+2. [[ TOPCIT ] 기출문제 모음집 풀이](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit.md)
+3. [[ TOPCIT ] 2. 데이터 이해와 활용 - 4. 데이터 모델링](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_4.md)
+4. [[ TOPCIT ] 2. 데이터 이해와 활용 - 5. 정규화와 반정규화](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240929_topcit_2_5.md)
 
 ### 2024. 09. 28
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240928_boj.md)
+2. [[ TOPCIT ] 1. 소프트웨어 개발 - 1. 소프트웨어 공학 개요](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_1.md)
+3. [[ TOPCIT ] 1. 소프트웨어 개발 - 2. 소프트웨어 재사용](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_2.md)
+4. [[ TOPCIT ] 1. 소프트웨어 개발 - 3. 자료구조와 알고리즘](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_3.md)
+5. [[ TOPCIT ] 1. 소프트웨어 개발 - 4. 소프트웨어 설계 원리와 구조적 설계](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_4.md)
+6. [[ TOPCIT ] 1. 소프트웨어 개발 - 5. 소프트웨어 아키텍처 설계](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_5.md)
+7. [[ TOPCIT ] 1. 소프트웨어 개발 - 8. 프로그래밍 언어와 개발환경](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240928_topcit_1_8.md)
 
 ### 2024. 09. 27
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240927_boj.md)
+2. [[ TOPCIT ] Python 오개념 잡기 - 파이썬 코딩도장 (Unit 1 ~ Unit 32)](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240927_topcit_py.md)
 
 ### 2024. 09. 22
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240922_boj.md)
+2. [[ TOPCIT ] 2. 데이터 이해와 활용 - 2. 데이터베이스 종류 이해](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240922_topcit.md)
 
 ### 2024. 09. 21
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240921_boj.md)
+2. [[ TOPCIT ] 2. 데이터 이해와 활용 - 1. 데이터와 데이터베이스의 이해, 3. 데이터베이스 설계 및 구축절차](https://github.com/r3j0/TIL/blob/main/TOPCIT/20240921_topcit.md)
 
 ### 2024. 09. 18
 1. [[ PS / BOJ ] 백준 실버, 골드 5문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20240918_boj.md)
