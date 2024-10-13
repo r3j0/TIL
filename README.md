@@ -13,11 +13,12 @@
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
-> 2. [ TOPCIT ] TOPCIT Essence
-> 3. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
+> 2. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
+> 3. [ Rust ] Comprehensive Rust
+> 4. 꾸준히 블로그 작성하기 / 주말마다 TIL 블로그화 시키기
 
 > ## 10월 목표
-> 1. TOPCIT 기출문제 완료 및 시험 응시
+> 1. ~~TOPCIT 기출문제 완료 및 시험 응시~~
 > 2. [ PS ] Rating 2370+
 > 3. [ Rust ] Comprehensive Rust 완료 (1일차 오후 - 튜플 및 배열 완료 (2 / 4))
 > 4. 7월자 TIL 블로그화
