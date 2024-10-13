@@ -1,5 +1,8 @@
-# TIL
-***Today I Learned***
+
+<h1 align="center">TIL</h1>
+<p align="center">
+  <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
+</p>
 
 # 2024. 10. 13
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241013_boj.md)
