@@ -4,18 +4,14 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 10. 14
+# 2024. 10. 15
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241015_boj.md)
+
+### 2024. 10. 14
 1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241014_boj.md)
 
 ### 2024. 10. 13
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241013_boj.md)
-
-### 2024. 10. 11
-1. [[ TOPCIT ] 3. 시스템아키텍처 이해와 활용 - 3. 운영체제 ~ 6. 정보시스템 구축 기술](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241011_topcit_3_3.md)
-
-### 2024. 10. 10
-1. [[ TOPCIT ] 3. 시스템아키텍처 이해와 활용 - 14. 웹 응용을 포함한 응용 계층 기술 ~ 16. 최신 기술](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_3_14.md)
-2. [[ TOPCIT ] 4. 정보보안 이해와 활용 - 2. 정보보안 기반 기술, 3. 정보보안 최신 기술, 8. 네트워크 보안 이해하기, 특강 및 기출문제 정리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
@@ -53,6 +49,13 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 10. 11
+1. [[ TOPCIT ] 3. 시스템아키텍처 이해와 활용 - 3. 운영체제 ~ 6. 정보시스템 구축 기술](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241011_topcit_3_3.md)
+
+### 2024. 10. 10
+1. [[ TOPCIT ] 3. 시스템아키텍처 이해와 활용 - 14. 웹 응용을 포함한 응용 계층 기술 ~ 16. 최신 기술](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_3_14.md)
+2. [[ TOPCIT ] 4. 정보보안 이해와 활용 - 2. 정보보안 기반 기술, 3. 정보보안 최신 기술, 8. 네트워크 보안 이해하기, 특강 및 기출문제 정리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241010_topcit_4_2.md)
 
 ### 2024. 10. 09
 1. [[ TOPCIT ] 3. 시스템아키텍처 이해화 활용 - 1. 시스템 개념 ~ 2. 네트워크 개념, 특강 및 기출문제 정리](https://github.com/r3j0/TIL/blob/main/TOPCIT/20241009_topcit3.md)
