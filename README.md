@@ -4,16 +4,16 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 10. 16
+# 2024. 10. 17
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241017_boj.md)
+
+### 2024. 10. 16
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241016_boj.md)
 2. [[ PS / Codeforces ] Codeforces Round 966 (Div. 3) UpSolving (A, B)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241016_cf966.md)
 
 ### 2024. 10. 15
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241015_boj.md)
 2. [[ PS / Codeforces ] Codeforces Round 974 (Div. 3) UpSolving (A, B)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241015_cf974.md)
-
-### 2024. 10. 14
-1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241014_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
@@ -51,6 +51,9 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 10. 14
+1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241014_boj.md)
 
 ### 2024. 10. 13
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241013_boj.md)
