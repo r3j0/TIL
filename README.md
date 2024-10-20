@@ -20,25 +20,16 @@
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
 > 2. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
-> 3. [ Rust ] Comprehensive Rust
-> 4. 꾸준히 블로그 작성하기 / 주말마다 TIL 블로그화 시키기
-
-> ## 할 일
-> 1. TOPCIT 22회 정기평가 회고 작성하기
-> 2. 진행할 토이프로젝트 선택하기
-> 3. 전체 과목 공부 계획 세우기
+> 3. 꾸준히 블로그 작성하기
 
 > ## 10월 목표
 > 1. ~~TOPCIT 기출문제 완료 및 시험 응시~~
-> 2. [ PS ] Rating 2370+
-> 3. [ Rust ] Comprehensive Rust 완료 (1일차 오후 - 튜플 및 배열 완료 (2 / 4))
-> 4. 7월자 TIL 1/2 블로그화
-> 5. 블로그 방문 수 누적 10,000 달성
+> 2. [ PS ] Rating 2350+
 
 > ### 11월 목표
 > 1. [ PS ] Rating 2400+ (Solved.ac Diamond 3)
 > 2. 시나공 정보처리산업기사 2과목 완료
-> 3. 7월자 TIL 2/2 블로그화
+> 3. 7월자 TIL 블로그화
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
