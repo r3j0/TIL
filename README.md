@@ -10,6 +10,7 @@
 
 # 2024. 10. 26
 1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241026_boj.md)
+2. [[ PS / Codeforces ] Codeforces Round 946 (Div. 3) UpSolving (A ~ E)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241026_cf946.md)
 
 ### 2024. 10. 24
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241024_boj.md)
