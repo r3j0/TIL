@@ -8,15 +8,15 @@
 2. 정보 수집과 정보 정리, 블로그화는 생명이다.
 3. 현재 할 수 있는 선에서의 공부를 많이 하자 (이론, 언어, 수학, 영어 위주)
 
-# 2024. 10. 26
+# 2024. 10. 27
+1. [[ PS / Codeforces ] Codeforces Round 980 (Div. 2) Virtual Contest (A, B)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241027_cf980.md)
+
+### 2024. 10. 26
 1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241026_boj.md)
 2. [[ PS / Codeforces ] Codeforces Round 946 (Div. 3) UpSolving (A ~ E)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241026_cf946.md)
 
 ### 2024. 10. 24
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241024_boj.md)
-
-### 2024. 10. 21
-1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241021_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
@@ -41,6 +41,9 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 10. 21
+1. [[ PS / BOJ ] 백준 실버, 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241021_boj.md)
 
 ### 2024. 10. 20
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241020_boj.md)
