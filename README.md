@@ -13,7 +13,7 @@
 2. 53단계 더 어려운 수학 입장하기
 
 ### 2024. 10. 29
-1. [[ PS / Codeforces ] Codeforces Round 952 (Div. 4) Virtual Contest](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241029_cf952.md)
+1. [[ PS / Codeforces ] Codeforces Round 952 (Div. 4) Virtual Contest (A ~ F)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241029_cf952.md)
 
 ### 2024. 10. 28
 1. [[ PS / BOJ ] 백준 실버, 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241028_boj.md)
