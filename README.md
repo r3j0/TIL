@@ -8,9 +8,12 @@
 2. 정보 수집과 정보 정리, 블로그화는 생명이다.
 3. 현재 할 수 있는 선에서의 공부를 많이 하자 (이론, 언어, 수학, 영어 위주)
 
-# 2024. 10. 29
+# 2024. 10. 30
 1. [https://www.learncpp.com/](https://www.learncpp.com/) 시작하기
 2. 53단계 더 어려운 수학 입장하기
+
+### 2024. 10. 29
+1. [[ PS / Codeforces ] Codeforces Round 952 (Div. 4) Virtual Contest](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241029_cf952.md)
 
 ### 2024. 10. 28
 1. [[ PS / BOJ ] 백준 실버, 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241028_boj.md)
