@@ -9,8 +9,7 @@
 3. 현재 할 수 있는 선에서의 공부를 많이 하자 (이론, 언어, 수학, 영어 위주)
 
 # 2024. 10. 30
-1. [[ C++ ] Learn C++ 1.1 ~ 1.3](https://github.com/r3j0/TIL/blob/main/C%2B%2B/20241030_cpp.md)
-2. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241030_boj.md)
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241030_boj.md)
 
 ### 2024. 10. 29
 1. [[ PS / Codeforces ] Codeforces Round 952 (Div. 4) Virtual Contest (A ~ F)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241029_cf952.md)
