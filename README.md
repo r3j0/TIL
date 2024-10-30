@@ -11,6 +11,7 @@
 # 2024. 10. 30
 1. [https://www.learncpp.com/](https://www.learncpp.com/) 시작하기
 2. 53단계 더 어려운 수학 입장하기
+3. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241030_boj.md)
 
 ### 2024. 10. 29
 1. [[ PS / Codeforces ] Codeforces Round 952 (Div. 4) Virtual Contest (A ~ F)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241029_cf952.md)
