@@ -4,10 +4,6 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-1. 뭐가 뭔지 모르겠으니 일단 무작정 다 먹어보자.
-2. 정보 수집과 정보 정리, 블로그화는 생명이다.
-3. 현재 할 수 있는 선에서의 공부를 많이 하자 (이론, 언어, 수학, 영어 위주)
-
 # 2024. 11. 3
 1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241103_boj.md)
 
