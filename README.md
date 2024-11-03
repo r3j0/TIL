@@ -6,7 +6,7 @@
 
 # 2024. 11. 3
 1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241103_boj.md)
-2. [[ PS / Codeforces ] Simple training for beginners (practice) A Problem 1 ~ 5](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241103_cf.md)
+2. [[ PS / Codeforces ] Simple training for beginners (practice) A Problem 1 ~ 5](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241103_cf1.md)
 
 ### 2024. 11. 1
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241101_boj.md)
