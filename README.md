@@ -4,7 +4,10 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 11. 3
+# 2024. 11. 4
+1. [[ JAVA ] **입출력 방법, 두 값 비교 함수**](https://github.com/r3j0/TIL/blob/main/PS/JAVA/20241104_java.md)
+
+### 2024. 11. 3
 1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241103_boj.md)
 2. [[ PS / Codeforces ] Simple training for beginners (practice) A Problem 1 ~ 5](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241103_cf1.md)
 
