@@ -5,7 +5,7 @@
 </p>
 
 # 2024. 11. 4
-1. [[ JAVA ] **입출력 방법, 두 값 비교 함수**](https://github.com/r3j0/TIL/blob/main/Java/20241104_java.md)
+1. [[ JAVA ] **Scanner, Arrays, Math.max()**](https://github.com/r3j0/TIL/blob/main/Java/20241104_java.md)
 2. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20241104_flow.md)
 
 ### 2024. 11. 3
@@ -22,6 +22,10 @@
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
 > 2. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
 > 3. 꾸준히 블로그 작성하기
+
+> ### TODO
+> - [https://st-lab.tistory.com/41](https://st-lab.tistory.com/41)
+> - [https://velog.io/@mooh2jj/Java-%EC%9E%85%EC%B6%9C%EB%A0%A5-BufferedReader-StringTokenizer%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0](https://velog.io/@mooh2jj/Java-%EC%9E%85%EC%B6%9C%EB%A0%A5-BufferedReader-StringTokenizer%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
 > ### 11월 목표
 > 1. [ PS ] Rating 2400+ (Solved.ac Diamond 3)
