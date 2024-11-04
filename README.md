@@ -20,8 +20,10 @@
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
-> 2. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF
-> 3. 꾸준히 블로그 작성하기
+> 2. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF, Learn C++
+> 3. [ JavaScript ] 모던 자바스크립트 튜토리얼
+> 4. [ PS / Codeforces ] 1500 ~ 1700 1 Solve
+> 5. 꾸준히 블로그 작성하기
 
 > ### TODO
 > - [https://st-lab.tistory.com/41](https://st-lab.tistory.com/41)
