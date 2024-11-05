@@ -6,6 +6,7 @@
 
 # 2024. 11. 5
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241105_boj.md)
+2. [[ PS / Codeforces ] **1500 ~ 1700 UpSolving (Solve 2)**](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241105_cf.md)
 
 ### 2024. 11. 4
 1. [[ JAVA ] **Scanner, Arrays, Math.max()**](https://github.com/r3j0/TIL/blob/main/Java/20241104_java.md)
