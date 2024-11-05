@@ -4,7 +4,10 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 11. 4
+# 2024. 11. 5
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241105_boj.md)
+
+### 2024. 11. 4
 1. [[ JAVA ] **Scanner, Arrays, Math.max()**](https://github.com/r3j0/TIL/blob/main/Java/20241104_java.md)
 2. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20241104_flow.md)
 
