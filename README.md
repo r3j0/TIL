@@ -4,6 +4,9 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
+# 2024. 11. 8
+1. [[ JAVA ]](https://github.com/r3j0/TIL/blob/main/Java/20241108_java.md)
+
 # 2024. 11. 6
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241106_boj.md)
 
@@ -31,10 +34,6 @@
 > 3. [ JavaScript ] 모던 자바스크립트 튜토리얼
 > 4. [ PS / Codeforces ] 1500 ~ 1700 1 Solve
 > 5. 꾸준히 블로그 작성하기
-
-> ### TODO
-> - [https://st-lab.tistory.com/41](https://st-lab.tistory.com/41)
-> - [https://velog.io/@mooh2jj/Java-%EC%9E%85%EC%B6%9C%EB%A0%A5-BufferedReader-StringTokenizer%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0](https://velog.io/@mooh2jj/Java-%EC%9E%85%EC%B6%9C%EB%A0%A5-BufferedReader-StringTokenizer%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
 > ### 11월 목표
 > 1. [ PS ] Rating 2400+ (Solved.ac Diamond 3)
