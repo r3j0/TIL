@@ -7,7 +7,7 @@
 # 2024. 11. 8
 1. [[ JAVA ]](https://github.com/r3j0/TIL/blob/main/Java/20241108_java.md)
 
-# 2024. 11. 6
+### 2024. 11. 6
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241106_boj.md)
 
 ### 2024. 11. 5
@@ -17,16 +17,6 @@
 ### 2024. 11. 4
 1. [[ JAVA ] **Scanner, Arrays, Math.max()**](https://github.com/r3j0/TIL/blob/main/Java/20241104_java.md)
 2. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20241104_flow.md)
-
-### 2024. 11. 3
-1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241103_boj.md)
-2. [[ PS / Codeforces ] Simple training for beginners (practice) A Problem 1 ~ 5](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241103_cf1.md)
-
-### 2024. 11. 1
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241101_boj.md)
-
-### 2024. 10. 30
-1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241030_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
@@ -53,6 +43,16 @@
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
 
 <br><br><br>
+
+### 2024. 11. 3
+1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241103_boj.md)
+2. [[ PS / Codeforces ] Simple training for beginners (practice) A Problem 1 ~ 5](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241103_cf1.md)
+
+### 2024. 11. 1
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241101_boj.md)
+
+### 2024. 10. 30
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241030_boj.md)
 
 ### 2024. 10. 29
 1. [[ PS / Codeforces ] Codeforces Round 952 (Div. 4) Virtual Contest (A ~ F)](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241029_cf952.md)
