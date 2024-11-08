@@ -7,6 +7,7 @@
 # 2024. 11. 8
 1. [[ JAVA ] #TODO ](https://github.com/r3j0/TIL/blob/main/Java/20241108_java.md)
 2. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241108_boj.md)
+3. [[ PS / segtree ] **펜윅 트리 이해**](https://github.com/r3j0/TIL/blob/main/PS/segtree/20241108_segtree.md)
 
 ### 2024. 11. 6
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241106_boj.md) ✏️
