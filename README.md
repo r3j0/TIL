@@ -9,7 +9,7 @@
 2. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241108_boj.md)
 
 ### 2024. 11. 6
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241106_boj.md) 📄
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241106_boj.md) ✏️
 
 ### 2024. 11. 5
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241105_boj.md)
@@ -42,7 +42,7 @@
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
-> - 블로그에 정리된 TIL은 📄 마크가 달리고, h4를 적용함.
+> - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, h4를 적용함.
 
 <br><br><br>
 
@@ -365,19 +365,19 @@
 2. [[ PS / SCC ] **플래티넘 SCC 이해 + 연습 (백준 1문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240711_scc.md)
 
 #### 2024. 07. 10
-1. [[ PS / LCA ] 플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240710_lca.md) 📄
-2. [[ PS / SCC ] SCC 알고리즘 공부](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240710_scc.md) 📄
+1. [[ PS / LCA ] 플래티넘 LCA / Sparse Table 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240710_lca.md) ✏️
+2. [[ PS / SCC ] SCC 알고리즘 공부](https://github.com/r3j0/TIL/blob/main/PS/SCC/20240710_scc.md) ✏️
 
 #### 2024. 07. 09
-1. [[ PS / KMP ] 플래티넘 KMP 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240709_kmp.md) 📄
-2. [[ PS / LCA ] 골드 ~ 플래티넘 LCA / Sparse Table 연습 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240709_lca.md) 📄
+1. [[ PS / KMP ] 플래티넘 KMP 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240709_kmp.md) ✏️
+2. [[ PS / LCA ] 골드 ~ 플래티넘 LCA / Sparse Table 연습 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240709_lca.md) ✏️
 
 #### 2024. 07. 08
-1. [[ PS / KMP ] 플래티넘 KMP 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240708_kmp.md) 📄
-2. [[ PS / LCA ] **LCA / Sparse Table 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240708_lca.md) 📄
+1. [[ PS / KMP ] 플래티넘 KMP 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240708_kmp.md) ✏️
+2. [[ PS / LCA ] **LCA / Sparse Table 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/LCA/20240708_lca.md) ✏️
 
 #### 2024. 07. 07
-1. [골드 DP 연습 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/DP/20240707_dp.md) 📄
-2. [**KMP 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240707_kmp.md) 📄
+1. [골드 DP 연습 (백준 4문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/DP/20240707_dp.md) ✏️
+2. [**KMP 알고리즘 공부**](https://github.com/r3j0/TIL/blob/main/PS/KMP/20240707_kmp.md) ✏️
 
 
