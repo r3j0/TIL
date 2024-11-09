@@ -6,6 +6,7 @@
 
 # 2024. 11. 9
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241109_boj.md)
+2. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241109_mo.md)
 
 ### 2024. 11. 8
 1. [[ JAVA ] #TODO ](https://github.com/r3j0/TIL/blob/main/Java/20241108_java.md)
