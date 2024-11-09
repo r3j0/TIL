@@ -4,7 +4,10 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 11. 8
+# 2024. 11. 9
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241109_boj.md)
+
+### 2024. 11. 8
 1. [[ JAVA ] #TODO ](https://github.com/r3j0/TIL/blob/main/Java/20241108_java.md)
 2. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241108_boj.md)
 3. [[ PS / segtree ] **펜윅 트리 이해**](https://github.com/r3j0/TIL/blob/main/PS/segtree/20241108_segtree.md)
