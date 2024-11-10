@@ -4,7 +4,10 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 11. 9
+# 2024. 11. 10
+1. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241110_mo.md)
+
+### 2024. 11. 9
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241109_boj.md)
 2. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241109_mo.md)
 3. [[ Java ] **BufferedReader, StringTokenizer, ArrayList**](https://github.com/r3j0/TIL/blob/main/Java/20241109_java.md)
@@ -14,17 +17,6 @@
 1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241108_boj.md)
 2. [[ PS / segtree ] **펜윅 트리 이해**](https://github.com/r3j0/TIL/blob/main/PS/segtree/20241108_segtree.md)
 3. [[ PS / MO ] **플래티넘 Mo's 연습 (백준 1문제 풀이)**](https://github.com/r3j0/TIL/blob/main/PS/MO/20241108_mo.md)
-
-### 2024. 11. 6
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241106_boj.md) ✏️
-
-### 2024. 11. 5
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241105_boj.md)
-2. [[ PS / Codeforces ] **1500 ~ 1700 UpSolving (Solve 2)**](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241105_cf.md)
-
-### 2024. 11. 4
-1. [[ Java ] **Scanner, Arrays, Math.max()**](https://github.com/r3j0/TIL/blob/main/Java/20241104_java.md)
-2. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20241104_flow.md)
 
 > ## 진행 중
 > 1. [ PS ] **BOJ Gold ~ Platinum Random 1 Solve**
@@ -52,6 +44,17 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, h4를 적용함.
 
 <br><br><br>
+
+### 2024. 11. 6
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241106_boj.md) ✏️
+
+### 2024. 11. 5
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241105_boj.md)
+2. [[ PS / Codeforces ] **1500 ~ 1700 UpSolving (Solve 2)**](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241105_cf.md)
+
+### 2024. 11. 4
+1. [[ Java ] **Scanner, Arrays, Math.max()**](https://github.com/r3j0/TIL/blob/main/Java/20241104_java.md)
+2. [[ PS / FLOW ] 플래티넘 네트워크 플로우 / MCMF 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/FLOW/20241104_flow.md)
 
 ### 2024. 11. 3
 1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241103_boj.md)
