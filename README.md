@@ -6,6 +6,7 @@
 
 # 2024. 11. 13
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241113_boj.md)
+왜 1300도 어렵지.. 내일부터 1100 ~ 1300 도전
 
 ### 2024. 11. 12
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241112_boj.md)
@@ -21,7 +22,7 @@
 
 > ## 진행 중
 > 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+
-> 2. [ PS / Codeforces ] 1300 ~ 1500 1 Solve+
+> 2. [ PS / Codeforces ] 1100 ~ 1300 1 Solve+
 > 3. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF, Learn C++
 > 4. [ JavaScript ] 모던 자바스크립트 튜토리얼
 > 5. 꾸준히 블로그 작성하기
