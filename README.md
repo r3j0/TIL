@@ -4,9 +4,12 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 11. 13
+
+# 2024. 11. 15
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241115_boj.md)
+
+### 2024. 11. 13
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241113_boj.md)
-왜 1300도 어렵지.. 내일부터 1100 ~ 1300 도전
 
 ### 2024. 11. 12
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241112_boj.md)
