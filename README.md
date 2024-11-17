@@ -14,12 +14,6 @@
 ### 2024. 11. 13
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241113_boj.md)
 
-### 2024. 11. 9
-1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241109_boj.md)
-2. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241109_mo.md)
-3. [[ Java ] **BufferedReader, StringTokenizer, ArrayList**](https://github.com/r3j0/TIL/blob/main/Java/20241109_java.md)
-4. [[ React ] **React 기초 With ChatGPT (컴포넌트, JSX 기초 문법, 상태, 컴포넌트 합치기)**](https://github.com/r3j0/TIL/blob/main/React/20241109_react.md)
-
 > ## 진행 중
 > 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+
 > 2. [ PS / Codeforces ] 1100 ~ 1300 1 Solve+
@@ -53,6 +47,12 @@
 
 ### 2024. 11. 10
 1. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241110_mo.md)
+
+### 2024. 11. 9
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241109_boj.md)
+2. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241109_mo.md)
+3. [[ Java ] **BufferedReader, StringTokenizer, ArrayList**](https://github.com/r3j0/TIL/blob/main/Java/20241109_java.md)
+4. [[ React ] **React 기초 With ChatGPT (컴포넌트, JSX 기초 문법, 상태, 컴포넌트 합치기)**](https://github.com/r3j0/TIL/blob/main/React/20241109_react.md)
 
 ### 2024. 11. 8
 1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241108_boj.md)
