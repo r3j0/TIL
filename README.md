@@ -5,17 +5,14 @@
 </p>
 
 
-# 2024. 11. 15
+# 2024. 11. 17
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241117_boj.md)
+
+### 2024. 11. 15
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241115_boj.md)
 
 ### 2024. 11. 13
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241113_boj.md)
-
-### 2024. 11. 12
-1. [[ PS / BOJ ] 백준 골드, 플래티넘 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241112_boj.md)
-
-### 2024. 11. 10
-1. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241110_mo.md)
 
 ### 2024. 11. 9
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241109_boj.md)
@@ -50,6 +47,12 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, h4를 적용함.
 
 <br><br><br>
+
+### 2024. 11. 12
+1. [[ PS / BOJ ] 백준 골드, 플래티넘 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241112_boj.md)
+
+### 2024. 11. 10
+1. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 1문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241110_mo.md)
 
 ### 2024. 11. 8
 1. [[ PS / BOJ ] 백준 골드 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241108_boj.md)
