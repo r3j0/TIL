@@ -20,16 +20,11 @@
 
 > ## 진행 중
 > 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+
-> 2. [ PS / Codeforces ] 1100 ~ 1300 1 Solve+
-> 3. [ C++ ] 윤성우의 열혈 C++ 프로그래밍 PDF, Learn C++
-> 4. [ JavaScript ] 모던 자바스크립트 튜토리얼
-> 5. 꾸준히 블로그 작성하기
 
 > ### 11월 목표
 > 1. [ PS ] Rating 2360+
 > 2. 시나공 정보처리산업기사 2과목 완료
 > 3. TOPCIT 1과목 완료
-> 4. 7월자 TIL 블로그화
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
