@@ -18,8 +18,9 @@
 
 > ### 11월 목표
 > 1. [ PS ] Rating 2360+
-> 2. 시나공 정보처리산업기사 2과목 완료
-> 3. TOPCIT 1과목 완료
+
+> ### 12월 목표
+> 1. TOPCIT 1과목 완료
   
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
