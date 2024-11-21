@@ -5,21 +5,16 @@
 </p>
 
 
-# 2024. 11. 18
+### 2024. 11. 18
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241118_boj.md)
 
 ### 2024. 11. 17
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241117_boj.md)
 2. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241117_mo.md)
 
-### 2024. 11. 15
-1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241115_boj.md)
-
-### 2024. 11. 13
-1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241113_boj.md)
-
 > ## 진행 중
 > 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+
+> 2. [모던 자바스크립트 다이브](https://poiemaweb.com/)
 
 > ### 11월 목표
 > 1. [ PS ] Rating 2360+
@@ -37,9 +32,15 @@
 
 > ### 표기법
 > - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
-> - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, h4를 적용함.
+> - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
 
 <br><br><br>
+
+### 2024. 11. 15
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241115_boj.md)
+
+### 2024. 11. 13
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241113_boj.md)
 
 ### 2024. 11. 12
 1. [[ PS / BOJ ] 백준 골드, 플래티넘 3문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241112_boj.md)
