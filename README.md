@@ -4,6 +4,8 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
+# 2024. 11. 25
+1. [[ PS / DP ] 골드 DP 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/DP/20241125_dp.md)
 
 ### 2024. 11. 18
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241118_boj.md)
