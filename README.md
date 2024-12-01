@@ -4,7 +4,10 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 11. 25
+# 2024. 12. 1
+1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241201_boj.md)
+
+### 2024. 11. 25
 1. [[ PS / DP ] 골드 DP 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/DP/20241125_dp.md)
 
 ### 2024. 11. 18
@@ -15,7 +18,7 @@
 2. [[ PS / MO ] 플래티넘 Mo's 연습 (백준 3문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/MO/20241117_mo.md)
 
 > ## 진행 중
-> 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+
+> 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+ 🔥
 > 2. [모던 자바스크립트 다이브](https://poiemaweb.com/)
 
 > ### 11월 목표
