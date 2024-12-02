@@ -4,7 +4,10 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 12. 1
+# 2024. 12. 2
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241202_boj.md)
+
+### 2024. 12. 1
 1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241201_boj.md)
 
 ### 2024. 11. 25
