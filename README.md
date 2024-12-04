@@ -5,16 +5,13 @@
 </p>
 
 # 2024. 12. 3
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241204_boj.md)
+
+### 2024. 12. 3
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241203_boj.md)
 
 ### 2024. 12. 2
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241202_boj.md)
-
-### 2024. 12. 1
-1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241201_boj.md)
-
-### 2024. 11. 25
-1. [[ PS / DP ] 골드 DP 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/DP/20241125_dp.md)
 
 > ## 진행 중
 > 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+ 🔥
@@ -36,6 +33,12 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
 
 <br><br><br>
+
+### 2024. 12. 1
+1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241201_boj.md)
+
+### 2024. 11. 25
+1. [[ PS / DP ] 골드 DP 연습 (백준 2문제 풀이)](https://github.com/r3j0/TIL/blob/main/PS/DP/20241125_dp.md)
 
 ### 2024. 11. 18
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241118_boj.md)
