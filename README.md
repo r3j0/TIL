@@ -4,14 +4,14 @@
   <image width="50" src="https://github.com/user-attachments/assets/79617c62-2e82-4b08-a0f6-1854d1ba893f"> <b>Today I Learned</b>  
 </p>
 
-# 2024. 12. 4
+# 2024. 12. 7
+1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241207_boj.md)
+
+### 2024. 12. 4
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241204_boj.md)
 
 ### 2024. 12. 3
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241203_boj.md)
-
-### 2024. 12. 2
-1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241202_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+ 🔥
@@ -33,6 +33,9 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
 
 <br><br><br>
+
+### 2024. 12. 2
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241202_boj.md)
 
 ### 2024. 12. 1
 1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241201_boj.md)
