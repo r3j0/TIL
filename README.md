@@ -17,7 +17,7 @@
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241203_boj.md)
 
 > ## 진행 중
-> 1. [ PS ] `*g3..p4 -@rejo s#500.. lang:ko` 1 Solve+ 🔥
+> 1. [ PS ] `*g -@rejo s#500.. lang:ko` 1 Solve+ 🔥
 > 2. [모던 자바스크립트 다이브](https://poiemaweb.com/)
 
 > ### 12월 목표
