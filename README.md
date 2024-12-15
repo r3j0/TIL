@@ -9,6 +9,7 @@
 
 # 2024. 12. 15
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241215_boj.md)
+2. [[ JavaScript ] 끝말잇기 프로젝트 만들기 (1)](https://github.com/r3j0/TIL/blob/main/JavaScript/20241215_js.md)
 
 ### 2024. 12. 7
 1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241207_boj.md)
