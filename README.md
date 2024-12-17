@@ -9,6 +9,7 @@
 
 # 2024. 12. 17
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241217_boj.md)
+2. [[ Python ] SQLite3 을 사용한 데이터베이스 생성 및 활용](https://github.com/r3j0/TIL/blob/main/Python/20241217_boj.md)
 
 ### 2024. 12. 16
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241216_boj.md)
