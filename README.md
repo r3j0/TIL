@@ -7,26 +7,16 @@
 
 할 거 많으니까 바쁘게 살아라 박정근 ! 
 
-# 2024. 12. 17
+# 2024. 12. 18
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241218_boj.md)
+
+### 2024. 12. 17
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241217_boj.md)
 2. [[ Python ] **SQLite3 을 사용한 데이터베이스 생성 및 활용**](https://github.com/r3j0/TIL/blob/main/Python/20241217_py.md)
 
 ### 2024. 12. 16
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241216_boj.md)
 2. [[ JavaScript ] 끝말잇기 프로젝트 만들기 (2)](https://github.com/r3j0/TIL/blob/main/JavaScript/20241216_js.md)
-
-### 2024. 12. 15
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241215_boj.md)
-2. [[ JavaScript ] 끝말잇기 프로젝트 만들기 (1)](https://github.com/r3j0/TIL/blob/main/JavaScript/20241215_js.md)
-
-### 2024. 12. 7
-1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241207_boj.md)
-
-### 2024. 12. 4
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241204_boj.md)
-
-### 2024. 12. 3
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241203_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] `*g -@rejo s#500.. lang:ko` 1 Solve+ 🔥
@@ -48,6 +38,19 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
 
 <br><br><br>
+
+### 2024. 12. 15
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241215_boj.md)
+2. [[ JavaScript ] 끝말잇기 프로젝트 만들기 (1)](https://github.com/r3j0/TIL/blob/main/JavaScript/20241215_js.md)
+
+### 2024. 12. 7
+1. [[ PS / BOJ ] 백준 플래티넘 1문제 풀이](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241207_boj.md)
+
+### 2024. 12. 4
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241204_boj.md)
+
+### 2024. 12. 3
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241203_boj.md)
 
 ### 2024. 12. 2
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241202_boj.md)
