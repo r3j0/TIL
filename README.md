@@ -7,7 +7,10 @@
 
 할 거 많으니까 바쁘게 살아라 박정근 ! 
 
-# 2024. 12. 18
+# 2024. 12. 19
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241219_boj.md)
+
+### 2024. 12. 18
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241218_boj.md)
 
 ### 2024. 12. 17
