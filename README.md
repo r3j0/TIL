@@ -1,22 +1,15 @@
+## Today I Learned
 
-<h1>Today I Learned</h1>
+---
 
-# 2024. 12. 20
+# 2024. 12. 22
+1. [[ PS / BOJ ] 백준 골드 3문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241222_boj.md)
+
+### 2024. 12. 20
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241220_boj.md)
 
 ### 2024. 12. 19
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241219_boj.md)
-
-### 2024. 12. 18
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241218_boj.md)
-
-### 2024. 12. 17
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241217_boj.md)
-2. [[ Python ] **SQLite3 을 사용한 데이터베이스 생성 및 활용**](https://github.com/r3j0/TIL/blob/main/Python/20241217_py.md)
-
-### 2024. 12. 16
-1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241216_boj.md)
-2. [[ JavaScript ] 끝말잇기 프로젝트 만들기 (2)](https://github.com/r3j0/TIL/blob/main/JavaScript/20241216_js.md)
 
 > ## 진행 중
 > 1. [ PS ] `*g -@rejo s#500.. lang:ko` 1 Solve+ 🔥
@@ -32,6 +25,17 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
 
 <br><br><br>
+
+### 2024. 12. 18
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241218_boj.md)
+
+### 2024. 12. 17
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241217_boj.md)
+2. [[ Python ] **SQLite3 을 사용한 데이터베이스 생성 및 활용**](https://github.com/r3j0/TIL/blob/main/Python/20241217_py.md)
+
+### 2024. 12. 16
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241216_boj.md)
+2. [[ JavaScript ] 끝말잇기 프로젝트 만들기 (2)](https://github.com/r3j0/TIL/blob/main/JavaScript/20241216_js.md)
 
 ### 2024. 12. 15
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241215_boj.md)
