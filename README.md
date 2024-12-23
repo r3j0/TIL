@@ -1,15 +1,13 @@
 ## Today I Learned
 
----
+# 2024. 12. 23
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241223_boj.md)
 
-# 2024. 12. 22
+### 2024. 12. 22
 1. [[ PS / BOJ ] 백준 골드 3문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241222_boj.md)
 
 ### 2024. 12. 20
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241220_boj.md)
-
-### 2024. 12. 19
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241219_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] `*g -@rejo s#500.. lang:ko` 1 Solve+ 🔥
@@ -25,6 +23,9 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
 
 <br><br><br>
+
+### 2024. 12. 19
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241219_boj.md)
 
 ### 2024. 12. 18
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241218_boj.md)
