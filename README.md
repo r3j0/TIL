@@ -1,6 +1,9 @@
 ## Today I Learned
 
-# 2024. 12. 24
+# 2024. 12. 25
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241225_boj.md)
+
+### 2024. 12. 24
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241224_boj.md)
 2. [[ PS / Codeforces ] Codeforces Round 995 (Div. 3) UpSolving A ~ C 🐢](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241224_cf.md)
 
