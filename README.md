@@ -1,6 +1,9 @@
 ## Today I Learned
 
-# 2024. 12. 23
+# 2024. 12. 24
+1. 
+
+### 2024. 12. 23
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241223_boj.md)
 
 ### 2024. 12. 22
@@ -10,7 +13,7 @@
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241220_boj.md)
 
 > ## 진행 중
-> 1. [ PS ] `*g -@rejo s#500.. lang:ko` 1 Solve+ 🔥
+> 1. [ PS ] `*g -@rejo s#2000.. lang:ko` 1 Solve+ 🔥
 
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
