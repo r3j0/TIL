@@ -11,6 +11,7 @@
 
 > ## 진행 중
 > 1. [ PS ] `*g -@rejo s#2000.. lang:ko` 1 Solve+ 🔥
+> 2. [ PS / Codeforces ] UpSolving 1+ 🐢
 
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
 
