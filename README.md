@@ -1,7 +1,7 @@
 ## Today I Learned
 
-> ### TODO
-> 1. 모듈러 곱셈 역원
+# 2024. 12. 26
+1. [[ PS / BOJ ] **백준 골드 1문제 풀이 🔥 ( Modular Multiplicative Inverse 학습 )**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241226_boj.md)
 
 ### 2024. 12. 25
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241225_boj.md)
