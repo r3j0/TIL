@@ -1,17 +1,14 @@
 ## Today I Learned
 
-# 2024. 12. 25
+> ### TODO
+> 1. 모듈러 곱셈 역원
+
+### 2024. 12. 25
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241225_boj.md)
 
 ### 2024. 12. 24
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241224_boj.md)
 2. [[ PS / Codeforces ] Codeforces Round 995 (Div. 3) UpSolving A ~ C 🐢](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241224_cf.md)
-
-### 2024. 12. 23
-1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241223_boj.md)
-
-### 2024. 12. 22
-1. [[ PS / BOJ ] 백준 골드 3문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241222_boj.md)
 
 > ## 진행 중
 > 1. [ PS ] `*g -@rejo s#2000.. lang:ko` 1 Solve+ 🔥
@@ -28,6 +25,12 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
 
 <br><br><br>
+
+### 2024. 12. 23
+1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241223_boj.md)
+
+### 2024. 12. 22
+1. [[ PS / BOJ ] 백준 골드 3문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241222_boj.md)
 
 ### 2024. 12. 20
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241220_boj.md)
