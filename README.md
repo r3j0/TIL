@@ -1,17 +1,16 @@
 ## Today I Learned
 
-# 2024. 12. 26
+# 2024. 12. 27
+1. [[ PS / BOJ ] **백준 플래티넘 1문제 풀이 🔥 ( Bitfield DP 학습 )**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241227_boj.md)
+
+### 2024. 12. 26
 1. [[ PS / BOJ ] **백준 골드 1문제 풀이 🔥 ( Modular Multiplicative Inverse 학습 )**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241226_boj.md)
 
 ### 2024. 12. 25
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241225_boj.md)
 
-### 2024. 12. 24
-1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241224_boj.md)
-2. [[ PS / Codeforces ] Codeforces Round 995 (Div. 3) UpSolving A ~ C 🐢](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241224_cf.md)
-
 > ## 진행 중
-> 1. [ PS ] `*g -@rejo s#2000.. lang:ko` 1 Solve+ 🔥
+> 1. [ PS ] `*g3..p5 -@rejo s#2000.. lang:ko` 1 Solve+ 🔥 ( 배울 수 있는 문제 풀기 )
 > 2. [ PS / Codeforces ] UpSolving 1+ 🐢
 
 [*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
@@ -25,6 +24,10 @@
 > - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
 
 <br><br><br>
+
+### 2024. 12. 24
+1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241224_boj.md)
+2. [[ PS / Codeforces ] Codeforces Round 995 (Div. 3) UpSolving A ~ C 🐢](https://github.com/r3j0/TIL/blob/main/PS/Codeforces/20241224_cf.md)
 
 ### 2024. 12. 23
 1. [[ PS / BOJ ] 백준 골드 2문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241223_boj.md)
