@@ -1,6 +1,11 @@
-## Today I Learned
+## TIL
 
-# 2024. 12. 27
+2025년을 맞아 Today I Learned 을 전체적으로 개편할 예정입니다. (3월 안 목표)
+- 2024년 TIL을 포함하여, 전체적으로 **배운 내용을 제목으로 한 마크다운 파일**로 개편할 예정.
+- 진행중인 공부 현황을 메인에 표시할 것
+- 깃허브 TIL에 올리기 어려운 내용은 노션 TIL을 따로 만들어 정리할 예정
+
+### 2024. 12. 27
 1. [[ PS / BOJ ] **백준 플래티넘 1문제 풀이 🔥 ( Bitfield DP 학습 )**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241227_boj.md)
 
 ### 2024. 12. 26
@@ -8,22 +13,6 @@
 
 ### 2024. 12. 25
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241225_boj.md)
-
-> ## 진행 중
-> 1. [ PS ] `*g3..p5 -@rejo s#2000.. lang:ko` 1 Solve+ 🔥 ( 배울 수 있는 문제 풀기 )
-> 2. [ PS / Codeforces ] UpSolving 1+ 🐢
-
-[*달성한 목표들*](https://github.com/r3j0/TIL/blob/main/GOAL.md)
-
-> ### 장기 목표
-> > 1. 정보처리산업기사 취득
-> > 2. 네트워크관리사 취득
-
-> ### 표기법
-> - 의미 있는 (얻은 것이 있는) 마크다운은 제목이 **볼드체** 되어 있음.
-> - 블로그에 정리된 TIL은 ✏️ 마크가 달리고, `<h4>`를 적용함.
-
-<br><br><br>
 
 ### 2024. 12. 24
 1. [[ PS / BOJ ] 백준 골드 1문제 풀이 🔥](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241224_boj.md)
