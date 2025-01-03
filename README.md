@@ -9,7 +9,7 @@
 ## PS
 |Title|Date|
 |-----|-----|
-|[습격자 초라기 (Dynamic Programming)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md)|2025. 01. 03|
+|[습격자 초라기 (Dynamic Programming)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md) (작성 중)|2025. 01. 03|
 |[최소 팰린드롬 분할 (Dynamic Programming)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|2025. 01. 01|
 
 ---
