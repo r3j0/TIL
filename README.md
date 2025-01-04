@@ -9,9 +9,9 @@
 ## PS
 |Title|Date|
 |-----|-----|
-|[BOJ 12104 (P5) / 순환 순열 (KMP)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250104_kmp.md)|2025. 01. 04|
-|[**BOJ 1006 (P3) / 습격자 초라기 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md)|2025. 01. 03|
-|[BOJ 1509 (G1) / 팰린드롬 분할 (DP)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|2025. 01. 01|
+|<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [BOJ 12104 (P5) / 순환 순열 (KMP)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250104_kmp.md)|2025. 01. 04|
+|<img src="https://static.solved.ac/tier_small/18.svg" width="14"/> [**BOJ 1006 (P3) / 습격자 초라기 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md)|2025. 01. 03|
+|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [BOJ 1509 (G1) / 팰린드롬 분할 (DP)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|2025. 01. 01|
 
 ---
 
