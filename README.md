@@ -3,7 +3,7 @@
 > *유의미한 성장을 만들어 내는 건 다름 아닌 기록이다.*
 
 # In Progress
-1. `s?false -@rejo` 푼 사람 수 +1 Solve | `*g3..p5 -@rejo s#500.. lang:ko` +1 Solve
+1. `s?false -@rejo` 푼 사람 수 순 +1 Solve | `*g3..p5 -@rejo s#500.. lang:ko` 랜덤 +1 Solve
 2. Do it! HTML+CSS+자바스크립트 웹 표준의 정석
 
 ## PS
