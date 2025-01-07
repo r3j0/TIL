@@ -4,9 +4,9 @@
 
 # In Progress
 1. `s?false -@rejo` 푼 사람 수 순 +1 Solve | `*g3..p5 -@rejo s#500.. lang:ko` 랜덤 +1 Solve
-2. Do it! HTML+CSS+자바스크립트 웹 표준의 정석
+2. [Web Development Tutorial](https://poiemaweb.com/)
 
-## PS
+## Problem Solving
 |Title|Date|
 |-----|-----|
 |<img src="https://static.solved.ac/tier_small/12.svg" width="14"/> [BOJ 32994 (G4) / 데이브의 고민 (Ad-hoc)](https://github.com/r3j0/TIL/blob/main/PS/ad_hoc/20250107_adhoc.md)|2025. 01. 07|
@@ -15,6 +15,10 @@
 |<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [BOJ 12104 (P5) / 순환 순열 (KMP)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250104_kmp.md)|2025. 01. 04|
 |<img src="https://static.solved.ac/tier_small/18.svg" width="14"/> [**BOJ 1006 (P3) / 습격자 초라기 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md)|2025. 01. 03|
 |<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [BOJ 1509 (G1) / 팰린드롬 분할 (DP)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|2025. 01. 01|
+
+## HTML5
+|Title|Date|
+|-----|-----|
 
 ---
 
