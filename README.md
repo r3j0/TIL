@@ -15,7 +15,7 @@
 |이분 탐색을 이용한 LIS 복습하기|<img src="https://static.solved.ac/tier_small/14.svg" width="14"/> [BOJ 1818 (G2) / 책정리 (LIS)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20250105_lis.md)|25. 01. 05|
 |KMP 복습하기|<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [BOJ 12104 (P5) / 순환 순열 (KMP)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250104_kmp.md)|25. 01. 04|
 |**심화 원형 DP 문제에서 경우의 수 찾기**|<img src="https://static.solved.ac/tier_small/18.svg" width="14"/> [**BOJ 1006 (P3) / 습격자 초라기 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md)|25. 01. 03|
-|팰린드롬 쉽게 분할하는 법|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [BOJ 1509 (G1) / 팰린드롬 분할 (DP)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|25. 01. 01|
+|**팰린드롬 DP로 쉽게 분할하는 법**|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [**BOJ 1509 (G1) / 팰린드롬 분할 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|25. 01. 01|
 
 ## HTML5
 |Title|Date|
