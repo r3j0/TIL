@@ -7,15 +7,15 @@
 2. [Web Development Tutorial](https://poiemaweb.com/)
 
 ## Problem Solving
-|Title|Date|
-|-----|-----|
-|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [**BOJ 9359 (G1) / 서로소 (Inclusion & Exclusion)**](https://github.com/r3j0/TIL/blob/main/PS/inclusion_exclusion/20250108_ie.md)|2025. 01. 08|
-|<img src="https://static.solved.ac/tier_small/12.svg" width="14"/> [BOJ 32994 (G4) / 데이브의 고민 (Ad-hoc)](https://github.com/r3j0/TIL/blob/main/PS/ad_hoc/20250107_adhoc.md)|2025. 01. 07|
-|<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [BOJ 16566 (P5) / 카드 게임 (Union-Find)](https://github.com/r3j0/TIL/blob/main/PS/union_find/20250106_uf.md)|2025. 01. 06|
-|<img src="https://static.solved.ac/tier_small/14.svg" width="14"/> [BOJ 1818 (G2) / 책정리 (LIS)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20250105_lis.md)|2025. 01. 05|
-|<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [BOJ 12104 (P5) / 순환 순열 (KMP)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250104_kmp.md)|2025. 01. 04|
-|<img src="https://static.solved.ac/tier_small/18.svg" width="14"/> [**BOJ 1006 (P3) / 습격자 초라기 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md)|2025. 01. 03|
-|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [BOJ 1509 (G1) / 팰린드롬 분할 (DP)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|2025. 01. 01|
+|Title|Problem|Date|
+|-----|-----|-----|
+|**포함 배제의 원리 학습 및 적용**|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [**BOJ 9359 (G1) / 서로소 (Inclusion & Exclusion)**](https://github.com/r3j0/TIL/blob/main/PS/inclusion_exclusion/20250108_ie.md)|25. 01. 08|
+|골드 애드 혹 연습하기|<img src="https://static.solved.ac/tier_small/12.svg" width="14"/> [BOJ 32994 (G4) / 데이브의 고민 (Ad-hoc)](https://github.com/r3j0/TIL/blob/main/PS/ad_hoc/20250107_adhoc.md)|25. 01. 07|
+|**이분 탐색에서 안 쓰는 수를 빼는 유니온 파인드 아이디어**|<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [**BOJ 16566 (P5) / 카드 게임 (Union-Find)**](https://github.com/r3j0/TIL/blob/main/PS/union_find/20250106_uf.md)|25. 01. 06|
+|이분 탐색을 이용한 LIS 복습하기|<img src="https://static.solved.ac/tier_small/14.svg" width="14"/> [BOJ 1818 (G2) / 책정리 (LIS)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20250105_lis.md)|25. 01. 05|
+|KMP 복습하기|<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [BOJ 12104 (P5) / 순환 순열 (KMP)](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250104_kmp.md)|25. 01. 04|
+|**심화 원형 DP 문제에서 경우의 수 찾기**|<img src="https://static.solved.ac/tier_small/18.svg" width="14"/> [**BOJ 1006 (P3) / 습격자 초라기 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md)|25. 01. 03|
+|팰린드롬 쉽게 분할하는 법|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [BOJ 1509 (G1) / 팰린드롬 분할 (DP)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|25. 01. 01|
 
 ## HTML5
 |Title|Date|
