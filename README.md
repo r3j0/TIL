@@ -9,6 +9,7 @@
 ## Problem Solving
 |Title|Date|
 |-----|-----|
+|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [**BOJ 9359 (G1) / 서로소 (Inclusion & Exclusion)**](https://github.com/r3j0/TIL/blob/main/PS/inclusion_exclusion/20250108_ie.md)|2025. 01. 08|
 |<img src="https://static.solved.ac/tier_small/12.svg" width="14"/> [BOJ 32994 (G4) / 데이브의 고민 (Ad-hoc)](https://github.com/r3j0/TIL/blob/main/PS/ad_hoc/20250107_adhoc.md)|2025. 01. 07|
 |<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [BOJ 16566 (P5) / 카드 게임 (Union-Find)](https://github.com/r3j0/TIL/blob/main/PS/union_find/20250106_uf.md)|2025. 01. 06|
 |<img src="https://static.solved.ac/tier_small/14.svg" width="14"/> [BOJ 1818 (G2) / 책정리 (LIS)](https://github.com/r3j0/TIL/blob/main/PS/LIS/20250105_lis.md)|2025. 01. 05|
