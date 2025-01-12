@@ -19,9 +19,10 @@
 |**심화 원형 DP 문제에서 경우의 수 찾기**|<img src="https://static.solved.ac/tier_small/18.svg" width="14"/> [**BOJ 1006 (P3) / 습격자 초라기 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250103_dp.md)|25. 01. 03|
 |**팰린드롬 DP로 쉽게 분할하는 법**|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [**BOJ 1509 (G1) / 팰린드롬 분할 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250101_dp.md)|25. 01. 01|
 
-## HTML5
-|Title|Date|
-|-----|-----|
+## Computer Science
+|Title|Link|Date|
+|-----|-----|-----|
+|교착 상태 (Deadlock)|[Link](https://github.com/r3j0/TIL/blob/main/CS/20250112_cs.md)|25. 01. 12|
 
 ---
 
