@@ -9,6 +9,7 @@
 ## Problem Solving
 |Title|Problem|Date|
 |-----|-----|-----|
+|최소 스패닝 트리 연습하기|<img src="https://static.solved.ac/tier_small/13.svg" width="14"/> [BOJ 13418 (G3) / 학교 탐방하기 (MST)](https://github.com/r3j0/TIL/blob/main/PS/MST/20250113_mst.md)|25. 01. 13|
 |**추정 가능한 주기 중 가장 긴 것 구하기**|<img src="https://static.solved.ac/tier_small/19.svg" width="14"/> [**BOJ 1787 (P2) / 문자열의 주기 예측 (KMP + DP)**](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250111_kmp.md)|25. 01. 11|
 |**KMP를 동시에 돌리며 DP 채우는 법**|<img src="https://static.solved.ac/tier_small/19.svg" width="14"/> [**BOJ 2401 (P2) / 최대 문자열 붙여넣기 (KMP + DP)**](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250109_kmp.md)|25. 01. 09|
 |**포함 배제의 원리 학습 및 적용**|<img src="https://static.solved.ac/tier_small/15.svg" width="14"/> [**BOJ 9359 (G1) / 서로소 (Inclusion & Exclusion)**](https://github.com/r3j0/TIL/blob/main/PS/inclusion_exclusion/20250108_ie.md)|25. 01. 08|
