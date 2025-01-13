@@ -23,6 +23,7 @@
 ## Computer Science
 |Title|Link|Date|
 |-----|-----|-----|
+|소프트웨어 생명 주기|[Link](https://github.com/r3j0/TIL/blob/main/CS/20250113_cs.md)|25. 01. 13|
 |교착 상태 (Deadlock)|[Link](https://github.com/r3j0/TIL/blob/main/CS/20250112_cs.md)|25. 01. 12|
 
 ---
