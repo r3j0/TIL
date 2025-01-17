@@ -9,6 +9,7 @@
 ## Problem Solving
 |Title|Problem|Date|
 |-----|-----|-----|
+|**두 번째로 작은 스패닝 트리 구하기**|<img src="https://static.solved.ac/tier_small/22.svg" width="14"/> [**BOJ 1626 (D4) / 두 번째로 작은 스패닝 트리**](https://github.com/r3j0/TIL/blob/main/PS/MST/20250117_mst.md)|25. 01. 17|
 |**전체 매칭을 위해, K 이하 간선만 사용하기**|<img src="https://static.solved.ac/tier_small/19.svg" width="14"/> [**BOJ 1348 (P2) / 주차장 (BFS + BM + BS)**](https://github.com/r3j0/TIL/blob/main/PS/BFS/20250116_bfs.md)|25. 01. 16|
 |최소 스패닝 트리 연습하기|<img src="https://static.solved.ac/tier_small/13.svg" width="14"/> [BOJ 13418 (G3) / 학교 탐방하기 (MST)](https://github.com/r3j0/TIL/blob/main/PS/MST/20250113_mst.md)|25. 01. 13|
 |**추정 가능한 주기 중 가장 긴 것 구하기**|<img src="https://static.solved.ac/tier_small/19.svg" width="14"/> [**BOJ 1787 (P2) / 문자열의 주기 예측 (KMP + DP)**](https://github.com/r3j0/TIL/blob/main/PS/KMP/20250111_kmp.md)|25. 01. 11|
