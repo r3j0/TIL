@@ -9,6 +9,7 @@
 ## Problem Solving
 |Title|Problem|Date|
 |-----|-----|-----|
+|DP + 정수론 연습하기|<img src="https://static.solved.ac/tier_small/11.svg" width="14"/> [BOJ 20500 (G5) / Ezreal 여눈부터 가네 ㅈㅈ (DP)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250120_dp.md)|25. 01. 20|
 |**두 번째로 작은 스패닝 트리 구하기**|<img src="https://static.solved.ac/tier_small/22.svg" width="14"/> [**BOJ 1626 (D4) / 두 번째로 작은 스패닝 트리**](https://github.com/r3j0/TIL/blob/main/PS/MST/20250117_mst.md)|25. 01. 17|
 |**전체 매칭을 위해, K 이하 간선만 사용하기**|<img src="https://static.solved.ac/tier_small/19.svg" width="14"/> [**BOJ 1348 (P2) / 주차장 (BFS + BM + BS)**](https://github.com/r3j0/TIL/blob/main/PS/BFS/20250116_bfs.md)|25. 01. 16|
 |최소 스패닝 트리 연습하기|<img src="https://static.solved.ac/tier_small/13.svg" width="14"/> [BOJ 13418 (G3) / 학교 탐방하기 (MST)](https://github.com/r3j0/TIL/blob/main/PS/MST/20250113_mst.md)|25. 01. 13|
