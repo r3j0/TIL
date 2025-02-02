@@ -9,6 +9,7 @@
 ## Problem Solving
 |Title|Problem|Date|
 |-----|-----|-----|
+|사전 순 최대 공통 부분 수열|<img src="https://static.solved.ac/tier_small/12.svg" width="14"/> [BOJ 30805 (G4) / 사전 순 최대 공통 부분 수열 (PQ)](https://github.com/r3j0/TIL/blob/main/PS/PQ/20250202_pq.md)|25. 02. 02|
 |**숫자 나사의 최소 회전 횟수**|<img src="https://static.solved.ac/tier_small/16.svg" width="14"/> [**BOJ 2494 (P5) / 숫자 맞추기 (DP)**](https://github.com/r3j0/TIL/blob/main/PS/DP/20250121_dp.md)|25. 01. 21|
 |DP + 정수론 연습하기|<img src="https://static.solved.ac/tier_small/11.svg" width="14"/> [BOJ 20500 (G5) / Ezreal 여눈부터 가네 ㅈㅈ (DP)](https://github.com/r3j0/TIL/blob/main/PS/DP/20250120_dp.md)|25. 01. 20|
 |**두 번째로 작은 스패닝 트리 구하기**|<img src="https://static.solved.ac/tier_small/22.svg" width="14"/> [**BOJ 1626 (D4) / 두 번째로 작은 스패닝 트리**](https://github.com/r3j0/TIL/blob/main/PS/MST/20250117_mst.md)|25. 01. 17|
