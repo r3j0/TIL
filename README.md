@@ -1,11 +1,3 @@
-# Today I Learned
-
-> *유의미한 성장을 만들어 내는 건 다름 아닌 기록이다.*
-
-# In Progress
-1. `s?false -@rejo` 푼 사람 수 순 +1 Solve | `*g3..p5 -@rejo s#500.. lang:ko` 랜덤 +1 Solve
-2. [Web Development Tutorial](https://poiemaweb.com/)
-
 ## Problem Solving
 |Title|Problem|Date|
 |-----|-----|-----|
@@ -30,13 +22,6 @@
 |-----|-----|-----|
 |소프트웨어 생명 주기|[Link](https://github.com/r3j0/TIL/blob/main/CS/20250113_cs.md)|25. 01. 13|
 |교착 상태 (Deadlock)|[Link](https://github.com/r3j0/TIL/blob/main/CS/20250112_cs.md)|25. 01. 12|
-
----
-
-2025년을 맞아 Today I Learned 을 전체적으로 개편할 예정입니다. (3월 안 목표)
-- 2024년 TIL을 포함하여, 전체적으로 **배운 내용을 제목으로 한 마크다운 파일**로 개편할 예정.
-- ~~진행중인 공부 현황을 메인에 표시할 것~~
-- ~~깃허브 TIL에 올리기 어려운 내용은 노션 TIL을 따로 만들어 정리할 예정~~
 
 ### 2024. 12. 27
 1. [[ PS / BOJ ] **백준 플래티넘 1문제 풀이 🔥 ( Bitfield DP 학습 )**](https://github.com/r3j0/TIL/blob/main/PS/BOJ/20241227_boj.md)
