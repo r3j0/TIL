@@ -3,6 +3,7 @@
 ### BOJ
 - 25.10.23. [2608번: 로마 숫자](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_2608.md)
 - 25.10.23. [16973번: 직사각형 탈출](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_16973.md)
+- 25.10.23. [2533번: 사회망 서비스(SNS)](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_2533.md)
 
 <hr>
 
