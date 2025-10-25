@@ -1,12 +1,13 @@
 ## Today I Learned
 
 ### BOJ
-- 25.10.23. [2608번: 로마 숫자](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_2608.md)
-- 25.10.23. [16973번: 직사각형 탈출](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_16973.md)
-- 25.10.23. [2533번: 사회망 서비스(SNS)](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_2533.md)
+- 25.10.25. [21940번: 가운데에서 만나기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_21940.md)
 
 <hr>
 
+- 25.10.23. [2608번: 로마 숫자](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_2608.md)
+- 25.10.23. [16973번: 직사각형 탈출](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_16973.md)
+- 25.10.23. [2533번: 사회망 서비스(SNS)](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_2533.md)
 - 25.10.21. [2162번: 선분 그룹](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251021_2162.md)
 - 25.10.21. [1759번: 암호 만들기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251021_1759.md)
 - 25.10.20. [10255번: 교차점](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251020_10255.md)
