@@ -1,10 +1,14 @@
 ## Today I Learned
 
-### BOJ
+> ## 25.10.25
+> - **시작한 지 [ 6 ] 일 째**
+
 - 25.10.25. [21940번: 가운데에서 만나기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_21940.md)
+- 25.10.25. [CCW를 활용한 선분 교차 판정](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251025_linecross.md)
 
 <hr>
 
+### BOJ
 - 25.10.23. [2608번: 로마 숫자](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_2608.md)
 - 25.10.23. [16973번: 직사각형 탈출](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_16973.md)
 - 25.10.23. [2533번: 사회망 서비스(SNS)](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251023_2533.md)
