@@ -5,6 +5,8 @@
 
 ### BOJ
 - 25.10.25. [21940번: 가운데에서 만나기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_21940.md)
+- 25.10.25. [17386번: 선분 교차 1](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_17386.md)
+- 25.10.25. [17387번: 선분 교차 2](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_17386.md)
 
 ### Algorithm
 - 25.10.25. [CCW를 활용한 선분 교차 판정](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251025_linecross.md)
