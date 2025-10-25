@@ -3,7 +3,10 @@
 > ## 25.10.25
 > - **시작한 지 [ 6 ] 일 째**
 
+### BOJ
 - 25.10.25. [21940번: 가운데에서 만나기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_21940.md)
+
+### Algorithm
 - 25.10.25. [CCW를 활용한 선분 교차 판정](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251025_linecross.md)
 
 <hr>
