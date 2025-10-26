@@ -3,6 +3,9 @@
 > ## 25.10.26
 > - **시작한 지 [ 7 ] 일 째**
 
+## BOJ
+- 25.10.26 <img src="https://static.solved.ac/tier_small/13.svg" width="12"> [2228번: 구간 나누기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251026_2228.md)
+
 ## Calculus
 - 25.10.26 [스튜어트 미분적분학 1.1 ~ 1.4](https://github.com/r3j0/TIL/blob/main/Calculus/calc_20251026.md)
 
