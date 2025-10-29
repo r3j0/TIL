@@ -1,17 +1,16 @@
 ## Today I Learned
 
-> ## 25.10.27
-> - **시작한 지 [ 8 ] 일 째**
+> ## 25.10.29
+> - **시작한 지 [ 9 ] 일 째**
 
 ## BOJ
-- 25.10.27 <img src="https://static.solved.ac/tier_small/11.svg" width="12"> [12865번: 평범한 배낭](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251027_12865.md)
+- 25.10.29 <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [21278번: 호석이 두 마리 치킨](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251029_21278.md)
 
-## Calculus
-- 25.10.27 [스튜어트 미분적분학 1.1 ~ 1.6](https://github.com/r3j0/TIL/blob/main/Calculus/calc_20251026.md)
 
 <br><br><br><br><br><br>
 
 ## BOJ
+- 25.10.27 <img src="https://static.solved.ac/tier_small/11.svg" width="12"> [12865번: 평범한 배낭](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251027_12865.md)
 - 25.10.26 <img src="https://static.solved.ac/tier_small/13.svg" width="12"> [2228번: 구간 나누기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251026_2228.md)
 - 25.10.25. <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [21940번: 가운데에서 만나기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_21940.md)
 - 25.10.25. <img src="https://static.solved.ac/tier_small/13.svg" width="12"> [17386번: 선분 교차 1](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_17386.md)
@@ -24,6 +23,9 @@
 - 25.10.20. <img src="https://static.solved.ac/tier_small/17.svg" width="12"> [10255번: 교차점](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251020_10255.md)
 - 25.10.19. <img src="https://static.solved.ac/tier_small/11.svg" width="12"> [11758번: CCW](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251019_11758.md)
 - **25.10.19. <img src="https://static.solved.ac/tier_small/11.svg" width="12"> [2166번: 다각형의 면적](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251019_2166.md)**
+
+## Calculus
+- 25.10.27 [스튜어트 미분적분학 1.1 ~ 1.6](https://github.com/r3j0/TIL/blob/main/Calculus/calc_20251026.md)
 
 ## Algorithm
 - **25.10.25. [CCW를 활용한 선분 교차 판정](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251025_linecross.md)**
