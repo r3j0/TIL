@@ -1,15 +1,16 @@
 ## Today I Learned
 
-> ## 25.10.29
-> - **시작한 지 [ 9 ] 일 째**
+> ## 25.10.31
+> - **시작한 지 [ 10 ] 일 째**
 
 ## BOJ
-- 25.10.29 <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [21278번: 호석이 두 마리 치킨](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251029_21278.md)
+- 25.10.31 <img src="https://static.solved.ac/tier_small/11.svg" width="12"> [1092번: 배](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251031_1092.md)
 
 
 <br><br><br><br><br><br>
 
 ## BOJ
+- 25.10.29 <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [21278번: 호석이 두 마리 치킨](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251029_21278.md)
 - 25.10.27 <img src="https://static.solved.ac/tier_small/11.svg" width="12"> [12865번: 평범한 배낭](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251027_12865.md)
 - 25.10.26 <img src="https://static.solved.ac/tier_small/13.svg" width="12"> [2228번: 구간 나누기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251026_2228.md)
 - 25.10.25. <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [21940번: 가운데에서 만나기](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251025_21940.md)
