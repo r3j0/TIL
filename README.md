@@ -6,6 +6,8 @@
 ## BOJ
 - 25.11.01 <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [1922번: 네트워크 연결](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251101_1922.md)
 
+## Algorithm
+- **25.11.01 [Minimum Spanning Tree (최소 스패닝 트리)](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251101_mst.md)**
 
 <br><br><br><br><br><br>
 
