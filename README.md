@@ -1,17 +1,16 @@
 ## Today I Learned
 
-> ## 25.11.01
-> - **시작한 지 [ 11 ] 일 째**
+> ## 25.11.02
+> - **시작한 지 [ 12 ] 일 째**
 
 ## BOJ
-- 25.11.01 <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [1922번: 네트워크 연결](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251101_1922.md)
+- 25.11.02 <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [1043번: 거짓말](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251102_1043.md)
 
-## Algorithm
-- **25.11.01 [Minimum Spanning Tree (최소 스패닝 트리)](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251101_mst.md)**
 
 <br><br><br><br><br><br>
 
 ## BOJ
+- 25.11.01 <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [1922번: 네트워크 연결](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251101_1922.md)
 - 25.10.31 <img src="https://static.solved.ac/tier_small/11.svg" width="12"> [1092번: 배](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251031_1092.md)
 - 25.10.29 <img src="https://static.solved.ac/tier_small/12.svg" width="12"> [21278번: 호석이 두 마리 치킨](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251029_21278.md)
 - 25.10.27 <img src="https://static.solved.ac/tier_small/11.svg" width="12"> [12865번: 평범한 배낭](https://github.com/r3j0/TIL/blob/main/BOJ/boj_20251027_12865.md)
@@ -32,5 +31,6 @@
 - 25.10.27 [스튜어트 미분적분학 1.1 ~ 1.6](https://github.com/r3j0/TIL/blob/main/Calculus/calc_20251026.md)
 
 ## Algorithm
+- **25.11.01 [Minimum Spanning Tree (최소 스패닝 트리)](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251101_mst.md)**
 - **25.10.25. [CCW를 활용한 선분 교차 판정](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251025_linecross.md)**
 - **25.10.17. [CCW (Counter-Clockwise)](https://github.com/r3j0/TIL/blob/main/Algorithm/algo_20251017_ccw.md)**
