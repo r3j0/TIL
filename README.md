@@ -1,8 +1,7 @@
 # Today I Learned
 
-## 2026. 05. 11
-### Computer Graphics
-- [9 - Orientation & Rotation](https://github.com/r3j0/TIL/blob/main/computer-graphics/cg-20260511-ch9.md)
+## NestJS
+- [NestJS 프로젝트 생성 실습 & auth 모듈](https://github.com/r3j0/TIL/blob/main/nestjs/nestjs-20260511.md) ( 26. 05. 11 )
 
 ## Today AI Comment
 <!-- TODAY_AI_COMMENT_START -->
